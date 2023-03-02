@@ -1,0 +1,33 @@
+[2023-02-27 15:09:07,999] {taskinstance.py:1159} INFO - Dependencies all met for <TaskInstance: avg_product_price.spark_submit manual__2023-02-27T15:04:01.330166+00:00 [queued]>
+[2023-02-27 15:09:08,030] {taskinstance.py:1159} INFO - Dependencies all met for <TaskInstance: avg_product_price.spark_submit manual__2023-02-27T15:04:01.330166+00:00 [queued]>
+[2023-02-27 15:09:08,032] {taskinstance.py:1356} INFO - 
+--------------------------------------------------------------------------------
+[2023-02-27 15:09:08,034] {taskinstance.py:1357} INFO - Starting attempt 2 of 2
+[2023-02-27 15:09:08,035] {taskinstance.py:1358} INFO - 
+--------------------------------------------------------------------------------
+[2023-02-27 15:09:09,443] {taskinstance.py:1377} INFO - Executing <Task(SparkSubmitOperator): spark_submit> on 2023-02-27 15:04:01.330166+00:00
+[2023-02-27 15:09:09,453] {standard_task_runner.py:52} INFO - Started process 1599 to run task
+[2023-02-27 15:09:09,460] {standard_task_runner.py:79} INFO - Running: ['***', 'tasks', 'run', 'avg_product_price', 'spark_submit', 'manual__2023-02-27T15:04:01.330166+00:00', '--job-id', '7', '--raw', '--subdir', 'DAGS_FOLDER/avg_product_price.py', '--cfg-path', '/tmp/tmp6g3j46qj', '--error-file', '/tmp/tmp28os5bzl']
+[2023-02-27 15:09:09,465] {standard_task_runner.py:80} INFO - Job 7: Subtask spark_submit
+[2023-02-27 15:09:09,558] {task_command.py:370} INFO - Running <TaskInstance: avg_product_price.spark_submit manual__2023-02-27T15:04:01.330166+00:00 [running]> on host 4d7e65479714
+[2023-02-27 15:09:09,688] {taskinstance.py:1571} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=ayyoub
+AIRFLOW_CTX_DAG_ID=avg_product_price
+AIRFLOW_CTX_TASK_ID=spark_submit
+AIRFLOW_CTX_EXECUTION_DATE=2023-02-27T15:04:01.330166+00:00
+AIRFLOW_CTX_TRY_NUMBER=2
+AIRFLOW_CTX_DAG_RUN_ID=manual__2023-02-27T15:04:01.330166+00:00
+[2023-02-27 15:09:09,716] {base.py:68} INFO - Using connection ID 'spark-hadoop' for task execution.
+[2023-02-27 15:09:09,720] {spark_submit.py:344} INFO - Spark-Submit cmd: spark-submit --master local[*] --name arrow-spark /hadoop-latihan/map_reduce/spark/average_price.py
+[2023-02-27 15:09:09,822] {spark_submit.py:495} INFO - /usr/local/bin/spark-submit: line 27: /opt/spark-3.3.1-bin-hadoop3/bin/spark-class: No such file or directory
+[2023-02-27 15:09:09,893] {taskinstance.py:1889} ERROR - Task failed with exception
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/airflow/providers/apache/spark/operators/spark_submit.py", line 157, in execute
+    self._hook.submit(self._application)
+  File "/usr/local/lib/python3.7/site-packages/airflow/providers/apache/spark/hooks/spark_submit.py", line 427, in submit
+    f"Cannot execute: {self._mask_cmd(spark_submit_cmd)}. Error code is: {returncode}."
+airflow.exceptions.AirflowException: Cannot execute: spark-submit --master local[*] --name arrow-spark /hadoop-latihan/map_reduce/spark/average_price.py. Error code is: 127.
+[2023-02-27 15:09:09,909] {taskinstance.py:1400} INFO - Marking task as FAILED. dag_id=avg_product_price, task_id=spark_submit, execution_date=20230227T150401, start_date=20230227T150908, end_date=20230227T150909
+[2023-02-27 15:09:09,962] {standard_task_runner.py:97} ERROR - Failed to execute job 7 for task spark_submit (Cannot execute: spark-submit --master local[*] --name arrow-spark /hadoop-latihan/map_reduce/spark/average_price.py. Error code is: 127.; 1599)
+[2023-02-27 15:09:09,996] {local_task_job.py:156} INFO - Task exited with return code 1
+[2023-02-27 15:09:10,071] {local_task_job.py:273} INFO - 0 downstream tasks scheduled from follow-on schedule check

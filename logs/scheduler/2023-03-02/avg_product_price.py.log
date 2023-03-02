@@ -1,0 +1,767 @@
+[2023-03-02 13:21:44,073] {processor.py:153} INFO - Started process (PID=177) to work on /home/airflow/dags/avg_product_price.py
+[2023-03-02 13:21:44,078] {processor.py:641} INFO - Processing file /home/airflow/dags/avg_product_price.py for tasks to queue
+[2023-03-02 13:21:44,097] {logging_mixin.py:115} INFO - [2023-03-02 13:21:44,095] {dagbag.py:507} INFO - Filling up the DagBag from /home/airflow/dags/avg_product_price.py
+[2023-03-02 13:21:44,307] {processor.py:651} INFO - DAG(s) dict_keys(['avg_product_price']) retrieved from /home/airflow/dags/avg_product_price.py
+[2023-03-02 13:21:44,527] {logging_mixin.py:115} INFO - [2023-03-02 13:21:44,527] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-02 13:21:44,709] {logging_mixin.py:115} INFO - [2023-03-02 13:21:44,708] {dag.py:2931} INFO - Setting next_dagrun for avg_product_price to None, run_after=None
+[2023-03-02 13:21:44,754] {processor.py:161} INFO - Processing /home/airflow/dags/avg_product_price.py took 0.698 seconds
+[2023-03-02 13:22:15,471] {processor.py:153} INFO - Started process (PID=187) to work on /home/airflow/dags/avg_product_price.py
+[2023-03-02 13:22:15,479] {processor.py:641} INFO - Processing file /home/airflow/dags/avg_product_price.py for tasks to queue
+[2023-03-02 13:22:15,483] {logging_mixin.py:115} INFO - [2023-03-02 13:22:15,481] {dagbag.py:507} INFO - Filling up the DagBag from /home/airflow/dags/avg_product_price.py
+[2023-03-02 13:22:15,620] {processor.py:651} INFO - DAG(s) dict_keys(['avg_product_price']) retrieved from /home/airflow/dags/avg_product_price.py
+[2023-03-02 13:22:15,756] {logging_mixin.py:115} INFO - [2023-03-02 13:22:15,756] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-02 13:22:16,060] {logging_mixin.py:115} INFO - [2023-03-02 13:22:16,060] {dag.py:2931} INFO - Setting next_dagrun for avg_product_price to None, run_after=None
+[2023-03-02 13:22:16,160] {processor.py:161} INFO - Processing /home/airflow/dags/avg_product_price.py took 0.716 seconds
+[2023-03-02 13:22:46,679] {processor.py:153} INFO - Started process (PID=197) to work on /home/airflow/dags/avg_product_price.py
+[2023-03-02 13:22:46,683] {processor.py:641} INFO - Processing file /home/airflow/dags/avg_product_price.py for tasks to queue
+[2023-03-02 13:22:46,687] {logging_mixin.py:115} INFO - [2023-03-02 13:22:46,686] {dagbag.py:507} INFO - Filling up the DagBag from /home/airflow/dags/avg_product_price.py
+[2023-03-02 13:22:46,780] {processor.py:651} INFO - DAG(s) dict_keys(['avg_product_price']) retrieved from /home/airflow/dags/avg_product_price.py
+[2023-03-02 13:22:46,982] {logging_mixin.py:115} INFO - [2023-03-02 13:22:46,982] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-02 13:22:47,045] {logging_mixin.py:115} INFO - [2023-03-02 13:22:47,045] {dag.py:2931} INFO - Setting next_dagrun for avg_product_price to None, run_after=None
+[2023-03-02 13:22:47,091] {processor.py:161} INFO - Processing /home/airflow/dags/avg_product_price.py took 0.431 seconds
+[2023-03-02 13:23:17,579] {processor.py:153} INFO - Started process (PID=207) to work on /home/airflow/dags/avg_product_price.py
+[2023-03-02 13:23:17,582] {processor.py:641} INFO - Processing file /home/airflow/dags/avg_product_price.py for tasks to queue
+[2023-03-02 13:23:17,614] {logging_mixin.py:115} INFO - [2023-03-02 13:23:17,613] {dagbag.py:507} INFO - Filling up the DagBag from /home/airflow/dags/avg_product_price.py
+[2023-03-02 13:23:18,723] {processor.py:651} INFO - DAG(s) dict_keys(['avg_product_price']) retrieved from /home/airflow/dags/avg_product_price.py
+[2023-03-02 13:23:19,099] {logging_mixin.py:115} INFO - [2023-03-02 13:23:19,099] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-02 13:23:19,158] {logging_mixin.py:115} INFO - [2023-03-02 13:23:19,158] {dag.py:2931} INFO - Setting next_dagrun for avg_product_price to None, run_after=None
+[2023-03-02 13:23:19,240] {processor.py:161} INFO - Processing /home/airflow/dags/avg_product_price.py took 1.667 seconds
+[2023-03-02 13:23:49,694] {processor.py:153} INFO - Started process (PID=217) to work on /home/airflow/dags/avg_product_price.py
+[2023-03-02 13:23:49,701] {processor.py:641} INFO - Processing file /home/airflow/dags/avg_product_price.py for tasks to queue
+[2023-03-02 13:23:49,707] {logging_mixin.py:115} INFO - [2023-03-02 13:23:49,707] {dagbag.py:507} INFO - Filling up the DagBag from /home/airflow/dags/avg_product_price.py
+[2023-03-02 13:23:49,806] {processor.py:651} INFO - DAG(s) dict_keys(['avg_product_price']) retrieved from /home/airflow/dags/avg_product_price.py
+[2023-03-02 13:23:49,862] {logging_mixin.py:115} INFO - [2023-03-02 13:23:49,862] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-02 13:23:49,936] {logging_mixin.py:115} INFO - [2023-03-02 13:23:49,936] {dag.py:2931} INFO - Setting next_dagrun for avg_product_price to None, run_after=None
+[2023-03-02 13:23:49,969] {processor.py:161} INFO - Processing /home/airflow/dags/avg_product_price.py took 0.311 seconds
+[2023-03-02 13:24:20,397] {processor.py:153} INFO - Started process (PID=227) to work on /home/airflow/dags/avg_product_price.py
+[2023-03-02 13:24:20,404] {processor.py:641} INFO - Processing file /home/airflow/dags/avg_product_price.py for tasks to queue
+[2023-03-02 13:24:20,407] {logging_mixin.py:115} INFO - [2023-03-02 13:24:20,406] {dagbag.py:507} INFO - Filling up the DagBag from /home/airflow/dags/avg_product_price.py
+[2023-03-02 13:24:20,572] {processor.py:651} INFO - DAG(s) dict_keys(['avg_product_price']) retrieved from /home/airflow/dags/avg_product_price.py
+[2023-03-02 13:24:20,710] {logging_mixin.py:115} INFO - [2023-03-02 13:24:20,710] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-02 13:24:20,776] {logging_mixin.py:115} INFO - [2023-03-02 13:24:20,776] {dag.py:2931} INFO - Setting next_dagrun for avg_product_price to None, run_after=None
+[2023-03-02 13:24:20,814] {processor.py:161} INFO - Processing /home/airflow/dags/avg_product_price.py took 0.436 seconds
+[2023-03-02 13:24:51,248] {processor.py:153} INFO - Started process (PID=237) to work on /home/airflow/dags/avg_product_price.py
+[2023-03-02 13:24:51,250] {processor.py:641} INFO - Processing file /home/airflow/dags/avg_product_price.py for tasks to queue
+[2023-03-02 13:24:51,253] {logging_mixin.py:115} INFO - [2023-03-02 13:24:51,253] {dagbag.py:507} INFO - Filling up the DagBag from /home/airflow/dags/avg_product_price.py
+[2023-03-02 13:24:51,345] {processor.py:651} INFO - DAG(s) dict_keys(['avg_product_price']) retrieved from /home/airflow/dags/avg_product_price.py
+[2023-03-02 13:24:51,608] {logging_mixin.py:115} INFO - [2023-03-02 13:24:51,607] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-02 13:24:51,675] {logging_mixin.py:115} INFO - [2023-03-02 13:24:51,675] {dag.py:2931} INFO - Setting next_dagrun for avg_product_price to None, run_after=None
+[2023-03-02 13:24:51,719] {processor.py:161} INFO - Processing /home/airflow/dags/avg_product_price.py took 0.482 seconds
+[2023-03-02 13:25:22,093] {processor.py:153} INFO - Started process (PID=247) to work on /home/airflow/dags/avg_product_price.py
+[2023-03-02 13:25:22,094] {processor.py:641} INFO - Processing file /home/airflow/dags/avg_product_price.py for tasks to queue
+[2023-03-02 13:25:22,096] {logging_mixin.py:115} INFO - [2023-03-02 13:25:22,096] {dagbag.py:507} INFO - Filling up the DagBag from /home/airflow/dags/avg_product_price.py
+[2023-03-02 13:25:22,163] {processor.py:651} INFO - DAG(s) dict_keys(['avg_product_price']) retrieved from /home/airflow/dags/avg_product_price.py
+[2023-03-02 13:25:22,284] {logging_mixin.py:115} INFO - [2023-03-02 13:25:22,284] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-02 13:25:22,376] {logging_mixin.py:115} INFO - [2023-03-02 13:25:22,375] {dag.py:2931} INFO - Setting next_dagrun for avg_product_price to None, run_after=None
+[2023-03-02 13:25:22,415] {processor.py:161} INFO - Processing /home/airflow/dags/avg_product_price.py took 0.330 seconds
+[2023-03-02 13:25:52,948] {processor.py:153} INFO - Started process (PID=257) to work on /home/airflow/dags/avg_product_price.py
+[2023-03-02 13:25:52,950] {processor.py:641} INFO - Processing file /home/airflow/dags/avg_product_price.py for tasks to queue
+[2023-03-02 13:25:52,952] {logging_mixin.py:115} INFO - [2023-03-02 13:25:52,952] {dagbag.py:507} INFO - Filling up the DagBag from /home/airflow/dags/avg_product_price.py
+[2023-03-02 13:25:53,066] {processor.py:651} INFO - DAG(s) dict_keys(['avg_product_price']) retrieved from /home/airflow/dags/avg_product_price.py
+[2023-03-02 13:25:53,305] {logging_mixin.py:115} INFO - [2023-03-02 13:25:53,305] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-02 13:25:53,405] {logging_mixin.py:115} INFO - [2023-03-02 13:25:53,405] {dag.py:2931} INFO - Setting next_dagrun for avg_product_price to None, run_after=None
+[2023-03-02 13:25:53,503] {processor.py:161} INFO - Processing /home/airflow/dags/avg_product_price.py took 0.567 seconds
+[2023-03-02 13:26:24,202] {processor.py:153} INFO - Started process (PID=267) to work on /home/airflow/dags/avg_product_price.py
+[2023-03-02 13:26:24,205] {processor.py:641} INFO - Processing file /home/airflow/dags/avg_product_price.py for tasks to queue
+[2023-03-02 13:26:24,208] {logging_mixin.py:115} INFO - [2023-03-02 13:26:24,207] {dagbag.py:507} INFO - Filling up the DagBag from /home/airflow/dags/avg_product_price.py
+[2023-03-02 13:26:24,363] {processor.py:651} INFO - DAG(s) dict_keys(['avg_product_price']) retrieved from /home/airflow/dags/avg_product_price.py
+[2023-03-02 13:26:24,519] {logging_mixin.py:115} INFO - [2023-03-02 13:26:24,518] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-02 13:26:24,625] {logging_mixin.py:115} INFO - [2023-03-02 13:26:24,624] {dag.py:2931} INFO - Setting next_dagrun for avg_product_price to None, run_after=None
+[2023-03-02 13:26:24,670] {processor.py:161} INFO - Processing /home/airflow/dags/avg_product_price.py took 0.479 seconds
+[2023-03-02 13:26:54,940] {processor.py:153} INFO - Started process (PID=277) to work on /home/airflow/dags/avg_product_price.py
+[2023-03-02 13:26:54,943] {processor.py:641} INFO - Processing file /home/airflow/dags/avg_product_price.py for tasks to queue
+[2023-03-02 13:26:54,946] {logging_mixin.py:115} INFO - [2023-03-02 13:26:54,946] {dagbag.py:507} INFO - Filling up the DagBag from /home/airflow/dags/avg_product_price.py
+[2023-03-02 13:26:55,063] {processor.py:651} INFO - DAG(s) dict_keys(['avg_product_price']) retrieved from /home/airflow/dags/avg_product_price.py
+[2023-03-02 13:26:55,298] {logging_mixin.py:115} INFO - [2023-03-02 13:26:55,298] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-02 13:26:55,340] {logging_mixin.py:115} INFO - [2023-03-02 13:26:55,340] {dag.py:2931} INFO - Setting next_dagrun for avg_product_price to None, run_after=None
+[2023-03-02 13:26:55,375] {processor.py:161} INFO - Processing /home/airflow/dags/avg_product_price.py took 0.447 seconds
+[2023-03-02 13:27:25,618] {processor.py:153} INFO - Started process (PID=287) to work on /home/airflow/dags/avg_product_price.py
+[2023-03-02 13:27:25,622] {processor.py:641} INFO - Processing file /home/airflow/dags/avg_product_price.py for tasks to queue
+[2023-03-02 13:27:25,625] {logging_mixin.py:115} INFO - [2023-03-02 13:27:25,625] {dagbag.py:507} INFO - Filling up the DagBag from /home/airflow/dags/avg_product_price.py
+[2023-03-02 13:27:25,777] {processor.py:651} INFO - DAG(s) dict_keys(['avg_product_price']) retrieved from /home/airflow/dags/avg_product_price.py
+[2023-03-02 13:27:25,970] {logging_mixin.py:115} INFO - [2023-03-02 13:27:25,970] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-02 13:27:26,018] {logging_mixin.py:115} INFO - [2023-03-02 13:27:26,018] {dag.py:2931} INFO - Setting next_dagrun for avg_product_price to None, run_after=None
+[2023-03-02 13:27:26,050] {processor.py:161} INFO - Processing /home/airflow/dags/avg_product_price.py took 0.453 seconds
+[2023-03-02 13:27:56,282] {processor.py:153} INFO - Started process (PID=297) to work on /home/airflow/dags/avg_product_price.py
+[2023-03-02 13:27:56,285] {processor.py:641} INFO - Processing file /home/airflow/dags/avg_product_price.py for tasks to queue
+[2023-03-02 13:27:56,286] {logging_mixin.py:115} INFO - [2023-03-02 13:27:56,286] {dagbag.py:507} INFO - Filling up the DagBag from /home/airflow/dags/avg_product_price.py
+[2023-03-02 13:27:56,376] {processor.py:651} INFO - DAG(s) dict_keys(['avg_product_price']) retrieved from /home/airflow/dags/avg_product_price.py
+[2023-03-02 13:27:56,503] {logging_mixin.py:115} INFO - [2023-03-02 13:27:56,503] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-02 13:27:56,550] {logging_mixin.py:115} INFO - [2023-03-02 13:27:56,550] {dag.py:2931} INFO - Setting next_dagrun for avg_product_price to None, run_after=None
+[2023-03-02 13:27:56,583] {processor.py:161} INFO - Processing /home/airflow/dags/avg_product_price.py took 0.310 seconds
+[2023-03-02 13:28:26,909] {processor.py:153} INFO - Started process (PID=307) to work on /home/airflow/dags/avg_product_price.py
+[2023-03-02 13:28:26,911] {processor.py:641} INFO - Processing file /home/airflow/dags/avg_product_price.py for tasks to queue
+[2023-03-02 13:28:26,914] {logging_mixin.py:115} INFO - [2023-03-02 13:28:26,914] {dagbag.py:507} INFO - Filling up the DagBag from /home/airflow/dags/avg_product_price.py
+[2023-03-02 13:28:27,350] {processor.py:651} INFO - DAG(s) dict_keys(['avg_product_price']) retrieved from /home/airflow/dags/avg_product_price.py
+[2023-03-02 13:28:27,708] {logging_mixin.py:115} INFO - [2023-03-02 13:28:27,708] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-02 13:28:27,775] {logging_mixin.py:115} INFO - [2023-03-02 13:28:27,775] {dag.py:2931} INFO - Setting next_dagrun for avg_product_price to None, run_after=None
+[2023-03-02 13:28:27,816] {processor.py:161} INFO - Processing /home/airflow/dags/avg_product_price.py took 0.915 seconds
+[2023-03-02 13:28:58,400] {processor.py:153} INFO - Started process (PID=317) to work on /home/airflow/dags/avg_product_price.py
+[2023-03-02 13:28:58,403] {processor.py:641} INFO - Processing file /home/airflow/dags/avg_product_price.py for tasks to queue
+[2023-03-02 13:28:58,407] {logging_mixin.py:115} INFO - [2023-03-02 13:28:58,407] {dagbag.py:507} INFO - Filling up the DagBag from /home/airflow/dags/avg_product_price.py
+[2023-03-02 13:28:58,508] {processor.py:651} INFO - DAG(s) dict_keys(['avg_product_price']) retrieved from /home/airflow/dags/avg_product_price.py
+[2023-03-02 13:28:58,624] {logging_mixin.py:115} INFO - [2023-03-02 13:28:58,624] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-02 13:28:58,693] {logging_mixin.py:115} INFO - [2023-03-02 13:28:58,693] {dag.py:2931} INFO - Setting next_dagrun for avg_product_price to None, run_after=None
+[2023-03-02 13:28:58,728] {processor.py:161} INFO - Processing /home/airflow/dags/avg_product_price.py took 0.337 seconds
+[2023-03-02 13:29:29,426] {processor.py:153} INFO - Started process (PID=327) to work on /home/airflow/dags/avg_product_price.py
+[2023-03-02 13:29:29,428] {processor.py:641} INFO - Processing file /home/airflow/dags/avg_product_price.py for tasks to queue
+[2023-03-02 13:29:29,430] {logging_mixin.py:115} INFO - [2023-03-02 13:29:29,430] {dagbag.py:507} INFO - Filling up the DagBag from /home/airflow/dags/avg_product_price.py
+[2023-03-02 13:29:29,563] {processor.py:651} INFO - DAG(s) dict_keys(['avg_product_price']) retrieved from /home/airflow/dags/avg_product_price.py
+[2023-03-02 13:29:30,031] {logging_mixin.py:115} INFO - [2023-03-02 13:29:30,031] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-02 13:29:30,424] {logging_mixin.py:115} INFO - [2023-03-02 13:29:30,424] {dag.py:2931} INFO - Setting next_dagrun for avg_product_price to None, run_after=None
+[2023-03-02 13:29:31,702] {processor.py:161} INFO - Processing /home/airflow/dags/avg_product_price.py took 2.291 seconds
+[2023-03-02 13:30:02,041] {processor.py:153} INFO - Started process (PID=337) to work on /home/airflow/dags/avg_product_price.py
+[2023-03-02 13:30:02,045] {processor.py:641} INFO - Processing file /home/airflow/dags/avg_product_price.py for tasks to queue
+[2023-03-02 13:30:02,050] {logging_mixin.py:115} INFO - [2023-03-02 13:30:02,050] {dagbag.py:507} INFO - Filling up the DagBag from /home/airflow/dags/avg_product_price.py
+[2023-03-02 13:30:02,145] {processor.py:651} INFO - DAG(s) dict_keys(['avg_product_price']) retrieved from /home/airflow/dags/avg_product_price.py
+[2023-03-02 13:30:02,349] {logging_mixin.py:115} INFO - [2023-03-02 13:30:02,348] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-02 13:30:02,456] {logging_mixin.py:115} INFO - [2023-03-02 13:30:02,455] {dag.py:2931} INFO - Setting next_dagrun for avg_product_price to None, run_after=None
+[2023-03-02 13:30:02,516] {processor.py:161} INFO - Processing /home/airflow/dags/avg_product_price.py took 0.490 seconds
+[2023-03-02 13:30:32,954] {processor.py:153} INFO - Started process (PID=347) to work on /home/airflow/dags/avg_product_price.py
+[2023-03-02 13:30:32,957] {processor.py:641} INFO - Processing file /home/airflow/dags/avg_product_price.py for tasks to queue
+[2023-03-02 13:30:32,960] {logging_mixin.py:115} INFO - [2023-03-02 13:30:32,960] {dagbag.py:507} INFO - Filling up the DagBag from /home/airflow/dags/avg_product_price.py
+[2023-03-02 13:30:33,155] {processor.py:651} INFO - DAG(s) dict_keys(['avg_product_price']) retrieved from /home/airflow/dags/avg_product_price.py
+[2023-03-02 13:30:33,554] {logging_mixin.py:115} INFO - [2023-03-02 13:30:33,553] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-02 13:30:33,627] {logging_mixin.py:115} INFO - [2023-03-02 13:30:33,627] {dag.py:2931} INFO - Setting next_dagrun for avg_product_price to None, run_after=None
+[2023-03-02 13:30:33,676] {processor.py:161} INFO - Processing /home/airflow/dags/avg_product_price.py took 0.737 seconds
+[2023-03-02 13:31:03,817] {processor.py:153} INFO - Started process (PID=357) to work on /home/airflow/dags/avg_product_price.py
+[2023-03-02 13:31:03,819] {processor.py:641} INFO - Processing file /home/airflow/dags/avg_product_price.py for tasks to queue
+[2023-03-02 13:31:03,821] {logging_mixin.py:115} INFO - [2023-03-02 13:31:03,821] {dagbag.py:507} INFO - Filling up the DagBag from /home/airflow/dags/avg_product_price.py
+[2023-03-02 13:31:03,897] {processor.py:651} INFO - DAG(s) dict_keys(['avg_product_price']) retrieved from /home/airflow/dags/avg_product_price.py
+[2023-03-02 13:31:03,962] {logging_mixin.py:115} INFO - [2023-03-02 13:31:03,962] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-02 13:31:04,039] {logging_mixin.py:115} INFO - [2023-03-02 13:31:04,039] {dag.py:2931} INFO - Setting next_dagrun for avg_product_price to None, run_after=None
+[2023-03-02 13:31:04,069] {processor.py:161} INFO - Processing /home/airflow/dags/avg_product_price.py took 0.257 seconds
+[2023-03-02 13:31:34,405] {processor.py:153} INFO - Started process (PID=370) to work on /home/airflow/dags/avg_product_price.py
+[2023-03-02 13:31:34,406] {processor.py:641} INFO - Processing file /home/airflow/dags/avg_product_price.py for tasks to queue
+[2023-03-02 13:31:34,408] {logging_mixin.py:115} INFO - [2023-03-02 13:31:34,408] {dagbag.py:507} INFO - Filling up the DagBag from /home/airflow/dags/avg_product_price.py
+[2023-03-02 13:31:34,476] {processor.py:651} INFO - DAG(s) dict_keys(['avg_product_price']) retrieved from /home/airflow/dags/avg_product_price.py
+[2023-03-02 13:31:35,027] {logging_mixin.py:115} INFO - [2023-03-02 13:31:35,026] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-02 13:31:35,126] {logging_mixin.py:115} INFO - [2023-03-02 13:31:35,126] {dag.py:2931} INFO - Setting next_dagrun for avg_product_price to None, run_after=None
+[2023-03-02 13:31:35,192] {processor.py:161} INFO - Processing /home/airflow/dags/avg_product_price.py took 0.795 seconds
+[2023-03-02 13:32:05,906] {processor.py:153} INFO - Started process (PID=377) to work on /home/airflow/dags/avg_product_price.py
+[2023-03-02 13:32:05,908] {processor.py:641} INFO - Processing file /home/airflow/dags/avg_product_price.py for tasks to queue
+[2023-03-02 13:32:05,912] {logging_mixin.py:115} INFO - [2023-03-02 13:32:05,912] {dagbag.py:507} INFO - Filling up the DagBag from /home/airflow/dags/avg_product_price.py
+[2023-03-02 13:32:06,145] {processor.py:651} INFO - DAG(s) dict_keys(['avg_product_price']) retrieved from /home/airflow/dags/avg_product_price.py
+[2023-03-02 13:32:06,335] {logging_mixin.py:115} INFO - [2023-03-02 13:32:06,335] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-02 13:32:06,443] {logging_mixin.py:115} INFO - [2023-03-02 13:32:06,443] {dag.py:2931} INFO - Setting next_dagrun for avg_product_price to None, run_after=None
+[2023-03-02 13:32:06,495] {processor.py:161} INFO - Processing /home/airflow/dags/avg_product_price.py took 0.618 seconds
+[2023-03-02 13:32:37,751] {processor.py:153} INFO - Started process (PID=387) to work on /home/airflow/dags/avg_product_price.py
+[2023-03-02 13:32:37,753] {processor.py:641} INFO - Processing file /home/airflow/dags/avg_product_price.py for tasks to queue
+[2023-03-02 13:32:37,756] {logging_mixin.py:115} INFO - [2023-03-02 13:32:37,756] {dagbag.py:507} INFO - Filling up the DagBag from /home/airflow/dags/avg_product_price.py
+[2023-03-02 13:32:37,946] {processor.py:651} INFO - DAG(s) dict_keys(['avg_product_price']) retrieved from /home/airflow/dags/avg_product_price.py
+[2023-03-02 13:32:38,221] {logging_mixin.py:115} INFO - [2023-03-02 13:32:38,221] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-02 13:32:38,274] {logging_mixin.py:115} INFO - [2023-03-02 13:32:38,273] {dag.py:2931} INFO - Setting next_dagrun for avg_product_price to None, run_after=None
+[2023-03-02 13:32:38,449] {processor.py:161} INFO - Processing /home/airflow/dags/avg_product_price.py took 0.769 seconds
+[2023-03-02 13:33:09,114] {processor.py:153} INFO - Started process (PID=397) to work on /home/airflow/dags/avg_product_price.py
+[2023-03-02 13:33:09,117] {processor.py:641} INFO - Processing file /home/airflow/dags/avg_product_price.py for tasks to queue
+[2023-03-02 13:33:09,120] {logging_mixin.py:115} INFO - [2023-03-02 13:33:09,120] {dagbag.py:507} INFO - Filling up the DagBag from /home/airflow/dags/avg_product_price.py
+[2023-03-02 13:33:09,325] {processor.py:651} INFO - DAG(s) dict_keys(['avg_product_price']) retrieved from /home/airflow/dags/avg_product_price.py
+[2023-03-02 13:33:09,593] {logging_mixin.py:115} INFO - [2023-03-02 13:33:09,592] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-02 13:33:09,676] {logging_mixin.py:115} INFO - [2023-03-02 13:33:09,676] {dag.py:2931} INFO - Setting next_dagrun for avg_product_price to None, run_after=None
+[2023-03-02 13:33:09,724] {processor.py:161} INFO - Processing /home/airflow/dags/avg_product_price.py took 0.634 seconds
+[2023-03-02 13:33:40,819] {processor.py:153} INFO - Started process (PID=407) to work on /home/airflow/dags/avg_product_price.py
+[2023-03-02 13:33:40,822] {processor.py:641} INFO - Processing file /home/airflow/dags/avg_product_price.py for tasks to queue
+[2023-03-02 13:33:40,825] {logging_mixin.py:115} INFO - [2023-03-02 13:33:40,824] {dagbag.py:507} INFO - Filling up the DagBag from /home/airflow/dags/avg_product_price.py
+[2023-03-02 13:33:41,012] {processor.py:651} INFO - DAG(s) dict_keys(['avg_product_price']) retrieved from /home/airflow/dags/avg_product_price.py
+[2023-03-02 13:33:41,227] {logging_mixin.py:115} INFO - [2023-03-02 13:33:41,226] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-02 13:33:41,314] {logging_mixin.py:115} INFO - [2023-03-02 13:33:41,314] {dag.py:2931} INFO - Setting next_dagrun for avg_product_price to None, run_after=None
+[2023-03-02 13:33:41,347] {processor.py:161} INFO - Processing /home/airflow/dags/avg_product_price.py took 0.541 seconds
+[2023-03-02 13:34:12,652] {processor.py:153} INFO - Started process (PID=417) to work on /home/airflow/dags/avg_product_price.py
+[2023-03-02 13:34:12,654] {processor.py:641} INFO - Processing file /home/airflow/dags/avg_product_price.py for tasks to queue
+[2023-03-02 13:34:12,656] {logging_mixin.py:115} INFO - [2023-03-02 13:34:12,656] {dagbag.py:507} INFO - Filling up the DagBag from /home/airflow/dags/avg_product_price.py
+[2023-03-02 13:34:12,854] {processor.py:651} INFO - DAG(s) dict_keys(['avg_product_price']) retrieved from /home/airflow/dags/avg_product_price.py
+[2023-03-02 13:34:15,238] {logging_mixin.py:115} INFO - [2023-03-02 13:34:15,238] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-02 13:34:15,406] {logging_mixin.py:115} INFO - [2023-03-02 13:34:15,406] {dag.py:2931} INFO - Setting next_dagrun for avg_product_price to None, run_after=None
+[2023-03-02 13:34:15,731] {processor.py:161} INFO - Processing /home/airflow/dags/avg_product_price.py took 3.096 seconds
+[2023-03-02 13:34:46,305] {processor.py:153} INFO - Started process (PID=427) to work on /home/airflow/dags/avg_product_price.py
+[2023-03-02 13:34:46,307] {processor.py:641} INFO - Processing file /home/airflow/dags/avg_product_price.py for tasks to queue
+[2023-03-02 13:34:46,309] {logging_mixin.py:115} INFO - [2023-03-02 13:34:46,309] {dagbag.py:507} INFO - Filling up the DagBag from /home/airflow/dags/avg_product_price.py
+[2023-03-02 13:34:46,437] {processor.py:651} INFO - DAG(s) dict_keys(['avg_product_price']) retrieved from /home/airflow/dags/avg_product_price.py
+[2023-03-02 13:34:46,724] {logging_mixin.py:115} INFO - [2023-03-02 13:34:46,724] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-02 13:34:46,842] {logging_mixin.py:115} INFO - [2023-03-02 13:34:46,842] {dag.py:2931} INFO - Setting next_dagrun for avg_product_price to None, run_after=None
+[2023-03-02 13:34:46,895] {processor.py:161} INFO - Processing /home/airflow/dags/avg_product_price.py took 0.606 seconds
+[2023-03-02 13:35:17,324] {processor.py:153} INFO - Started process (PID=437) to work on /home/airflow/dags/avg_product_price.py
+[2023-03-02 13:35:17,326] {processor.py:641} INFO - Processing file /home/airflow/dags/avg_product_price.py for tasks to queue
+[2023-03-02 13:35:17,329] {logging_mixin.py:115} INFO - [2023-03-02 13:35:17,328] {dagbag.py:507} INFO - Filling up the DagBag from /home/airflow/dags/avg_product_price.py
+[2023-03-02 13:35:17,474] {processor.py:651} INFO - DAG(s) dict_keys(['avg_product_price']) retrieved from /home/airflow/dags/avg_product_price.py
+[2023-03-02 13:35:17,888] {logging_mixin.py:115} INFO - [2023-03-02 13:35:17,888] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-02 13:35:17,952] {logging_mixin.py:115} INFO - [2023-03-02 13:35:17,951] {dag.py:2931} INFO - Setting next_dagrun for avg_product_price to None, run_after=None
+[2023-03-02 13:35:18,001] {processor.py:161} INFO - Processing /home/airflow/dags/avg_product_price.py took 0.703 seconds
+[2023-03-02 13:35:48,511] {processor.py:153} INFO - Started process (PID=447) to work on /home/airflow/dags/avg_product_price.py
+[2023-03-02 13:35:48,513] {processor.py:641} INFO - Processing file /home/airflow/dags/avg_product_price.py for tasks to queue
+[2023-03-02 13:35:48,516] {logging_mixin.py:115} INFO - [2023-03-02 13:35:48,515] {dagbag.py:507} INFO - Filling up the DagBag from /home/airflow/dags/avg_product_price.py
+[2023-03-02 13:35:48,622] {processor.py:651} INFO - DAG(s) dict_keys(['avg_product_price']) retrieved from /home/airflow/dags/avg_product_price.py
+[2023-03-02 13:35:48,760] {logging_mixin.py:115} INFO - [2023-03-02 13:35:48,760] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-02 13:35:48,836] {logging_mixin.py:115} INFO - [2023-03-02 13:35:48,836] {dag.py:2931} INFO - Setting next_dagrun for avg_product_price to None, run_after=None
+[2023-03-02 13:35:48,879] {processor.py:161} INFO - Processing /home/airflow/dags/avg_product_price.py took 0.379 seconds
+[2023-03-02 13:36:19,319] {processor.py:153} INFO - Started process (PID=457) to work on /home/airflow/dags/avg_product_price.py
+[2023-03-02 13:36:19,321] {processor.py:641} INFO - Processing file /home/airflow/dags/avg_product_price.py for tasks to queue
+[2023-03-02 13:36:19,324] {logging_mixin.py:115} INFO - [2023-03-02 13:36:19,324] {dagbag.py:507} INFO - Filling up the DagBag from /home/airflow/dags/avg_product_price.py
+[2023-03-02 13:36:19,491] {processor.py:651} INFO - DAG(s) dict_keys(['avg_product_price']) retrieved from /home/airflow/dags/avg_product_price.py
+[2023-03-02 13:36:19,843] {logging_mixin.py:115} INFO - [2023-03-02 13:36:19,842] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-02 13:36:19,931] {logging_mixin.py:115} INFO - [2023-03-02 13:36:19,931] {dag.py:2931} INFO - Setting next_dagrun for avg_product_price to None, run_after=None
+[2023-03-02 13:36:20,002] {processor.py:161} INFO - Processing /home/airflow/dags/avg_product_price.py took 0.697 seconds
+[2023-03-02 13:36:50,838] {processor.py:153} INFO - Started process (PID=467) to work on /home/airflow/dags/avg_product_price.py
+[2023-03-02 13:36:50,839] {processor.py:641} INFO - Processing file /home/airflow/dags/avg_product_price.py for tasks to queue
+[2023-03-02 13:36:50,841] {logging_mixin.py:115} INFO - [2023-03-02 13:36:50,841] {dagbag.py:507} INFO - Filling up the DagBag from /home/airflow/dags/avg_product_price.py
+[2023-03-02 13:36:50,938] {processor.py:651} INFO - DAG(s) dict_keys(['avg_product_price']) retrieved from /home/airflow/dags/avg_product_price.py
+[2023-03-02 13:36:51,329] {logging_mixin.py:115} INFO - [2023-03-02 13:36:51,328] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-02 13:36:51,404] {logging_mixin.py:115} INFO - [2023-03-02 13:36:51,404] {dag.py:2931} INFO - Setting next_dagrun for avg_product_price to None, run_after=None
+[2023-03-02 13:36:51,486] {processor.py:161} INFO - Processing /home/airflow/dags/avg_product_price.py took 0.658 seconds
+[2023-03-02 13:37:22,521] {processor.py:153} INFO - Started process (PID=477) to work on /home/airflow/dags/avg_product_price.py
+[2023-03-02 13:37:22,523] {processor.py:641} INFO - Processing file /home/airflow/dags/avg_product_price.py for tasks to queue
+[2023-03-02 13:37:22,526] {logging_mixin.py:115} INFO - [2023-03-02 13:37:22,525] {dagbag.py:507} INFO - Filling up the DagBag from /home/airflow/dags/avg_product_price.py
+[2023-03-02 13:37:22,629] {processor.py:651} INFO - DAG(s) dict_keys(['avg_product_price']) retrieved from /home/airflow/dags/avg_product_price.py
+[2023-03-02 13:37:22,917] {logging_mixin.py:115} INFO - [2023-03-02 13:37:22,916] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-02 13:37:22,983] {logging_mixin.py:115} INFO - [2023-03-02 13:37:22,983] {dag.py:2931} INFO - Setting next_dagrun for avg_product_price to None, run_after=None
+[2023-03-02 13:37:23,021] {processor.py:161} INFO - Processing /home/airflow/dags/avg_product_price.py took 0.510 seconds
+[2023-03-02 13:37:53,773] {processor.py:153} INFO - Started process (PID=487) to work on /home/airflow/dags/avg_product_price.py
+[2023-03-02 13:37:53,777] {processor.py:641} INFO - Processing file /home/airflow/dags/avg_product_price.py for tasks to queue
+[2023-03-02 13:37:53,779] {logging_mixin.py:115} INFO - [2023-03-02 13:37:53,779] {dagbag.py:507} INFO - Filling up the DagBag from /home/airflow/dags/avg_product_price.py
+[2023-03-02 13:37:53,900] {processor.py:651} INFO - DAG(s) dict_keys(['avg_product_price']) retrieved from /home/airflow/dags/avg_product_price.py
+[2023-03-02 13:37:54,315] {logging_mixin.py:115} INFO - [2023-03-02 13:37:54,315] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-02 13:37:54,413] {logging_mixin.py:115} INFO - [2023-03-02 13:37:54,413] {dag.py:2931} INFO - Setting next_dagrun for avg_product_price to None, run_after=None
+[2023-03-02 13:37:54,455] {processor.py:161} INFO - Processing /home/airflow/dags/avg_product_price.py took 0.695 seconds
+[2023-03-02 13:38:24,913] {processor.py:153} INFO - Started process (PID=519) to work on /home/airflow/dags/avg_product_price.py
+[2023-03-02 13:38:24,915] {processor.py:641} INFO - Processing file /home/airflow/dags/avg_product_price.py for tasks to queue
+[2023-03-02 13:38:24,918] {logging_mixin.py:115} INFO - [2023-03-02 13:38:24,918] {dagbag.py:507} INFO - Filling up the DagBag from /home/airflow/dags/avg_product_price.py
+[2023-03-02 13:38:25,005] {processor.py:651} INFO - DAG(s) dict_keys(['avg_product_price']) retrieved from /home/airflow/dags/avg_product_price.py
+[2023-03-02 13:38:25,072] {logging_mixin.py:115} INFO - [2023-03-02 13:38:25,071] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-02 13:38:25,131] {logging_mixin.py:115} INFO - [2023-03-02 13:38:25,131] {dag.py:2931} INFO - Setting next_dagrun for avg_product_price to None, run_after=None
+[2023-03-02 13:38:25,169] {processor.py:161} INFO - Processing /home/airflow/dags/avg_product_price.py took 0.262 seconds
+[2023-03-02 13:38:56,438] {processor.py:153} INFO - Started process (PID=606) to work on /home/airflow/dags/avg_product_price.py
+[2023-03-02 13:38:56,499] {processor.py:641} INFO - Processing file /home/airflow/dags/avg_product_price.py for tasks to queue
+[2023-03-02 13:38:56,513] {logging_mixin.py:115} INFO - [2023-03-02 13:38:56,513] {dagbag.py:507} INFO - Filling up the DagBag from /home/airflow/dags/avg_product_price.py
+[2023-03-02 13:39:01,874] {processor.py:651} INFO - DAG(s) dict_keys(['avg_product_price']) retrieved from /home/airflow/dags/avg_product_price.py
+[2023-03-02 13:39:39,384] {logging_mixin.py:115} INFO - [2023-03-02 13:39:39,368] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-02 13:39:48,458] {processor.py:153} INFO - Started process (PID=617) to work on /home/airflow/dags/avg_product_price.py
+[2023-03-02 13:39:48,460] {processor.py:641} INFO - Processing file /home/airflow/dags/avg_product_price.py for tasks to queue
+[2023-03-02 13:39:48,501] {logging_mixin.py:115} INFO - [2023-03-02 13:39:48,500] {dagbag.py:507} INFO - Filling up the DagBag from /home/airflow/dags/avg_product_price.py
+[2023-03-02 13:39:51,501] {processor.py:651} INFO - DAG(s) dict_keys(['avg_product_price']) retrieved from /home/airflow/dags/avg_product_price.py
+[2023-03-02 13:39:54,464] {logging_mixin.py:115} INFO - [2023-03-02 13:39:54,438] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-02 13:39:55,751] {logging_mixin.py:115} INFO - [2023-03-02 13:39:55,698] {dag.py:2931} INFO - Setting next_dagrun for avg_product_price to None, run_after=None
+[2023-03-02 13:39:56,945] {processor.py:161} INFO - Processing /home/airflow/dags/avg_product_price.py took 8.531 seconds
+[2023-03-02 13:40:38,121] {processor.py:153} INFO - Started process (PID=636) to work on /home/airflow/dags/avg_product_price.py
+[2023-03-02 13:40:38,408] {processor.py:641} INFO - Processing file /home/airflow/dags/avg_product_price.py for tasks to queue
+[2023-03-02 13:40:39,109] {logging_mixin.py:115} INFO - [2023-03-02 13:40:38,849] {dagbag.py:507} INFO - Filling up the DagBag from /home/airflow/dags/avg_product_price.py
+[2023-03-02 13:41:14,811] {logging_mixin.py:115} INFO - [2023-03-02 13:41:13,064] {timeout.py:67} ERROR - Process timed out, PID: 636
+[2023-03-02 13:41:34,704] {logging_mixin.py:115} INFO - [2023-03-02 13:41:17,260] {dagbag.py:320} ERROR - Failed to import: /home/airflow/dags/avg_product_price.py
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/home/airflow/dags/avg_product_price.py", line 3, in <module>
+    from airflow.contrib.operators.spark_submit_operator import SparkSubmitOperator
+  File "/usr/local/lib/python3.7/site-packages/airflow/contrib/operators/spark_submit_operator.py", line 22, in <module>
+    from airflow.providers.apache.spark.operators.spark_submit import SparkSubmitOperator  # noqa
+  File "<frozen importlib._bootstrap>", line 983, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 963, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 906, in _find_spec
+  File "<frozen importlib._bootstrap_external>", line 1280, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 1252, in _get_spec
+  File "<frozen importlib._bootstrap_external>", line 1383, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 95, in _path_isfile
+  File "<frozen importlib._bootstrap_external>", line 87, in _path_is_mode_type
+  File "<frozen importlib._bootstrap_external>", line 81, in _path_stat
+  File "/usr/local/lib/python3.7/site-packages/airflow/utils/timeout.py", line 68, in handle_timeout
+    raise AirflowTaskTimeout(self.error_message)
+airflow.exceptions.AirflowTaskTimeout: DagBag import timeout for /home/airflow/dags/avg_product_price.py after 30.0s.
+Please take a look at these docs to improve your DAG import time:
+* https://airflow.apache.org/docs/apache-airflow/2.3.2/best-practices.html#top-level-python-code
+* https://airflow.apache.org/docs/apache-airflow/2.3.2/best-practices.html#reducing-dag-complexity, PID: 636
+[2023-03-02 13:41:38,557] {processor.py:653} WARNING - No viable dags retrieved from /home/airflow/dags/avg_product_price.py
+[2023-03-02 13:41:59,800] {processor.py:153} INFO - Started process (PID=642) to work on /home/airflow/dags/avg_product_price.py
+[2023-03-02 13:42:00,347] {processor.py:641} INFO - Processing file /home/airflow/dags/avg_product_price.py for tasks to queue
+[2023-03-02 13:42:01,332] {logging_mixin.py:115} INFO - [2023-03-02 13:42:01,130] {dagbag.py:507} INFO - Filling up the DagBag from /home/airflow/dags/avg_product_price.py
+[2023-03-02 13:42:17,299] {processor.py:651} INFO - DAG(s) dict_keys(['avg_product_price']) retrieved from /home/airflow/dags/avg_product_price.py
+[2023-03-02 13:42:35,418] {logging_mixin.py:115} INFO - [2023-03-02 13:42:35,341] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-02 13:42:37,512] {logging_mixin.py:115} INFO - [2023-03-02 13:42:37,511] {dag.py:2931} INFO - Setting next_dagrun for avg_product_price to None, run_after=None
+[2023-03-02 13:42:37,772] {processor.py:161} INFO - Processing /home/airflow/dags/avg_product_price.py took 38.753 seconds
+[2023-03-02 13:43:08,245] {processor.py:153} INFO - Started process (PID=653) to work on /home/airflow/dags/avg_product_price.py
+[2023-03-02 13:43:08,249] {processor.py:641} INFO - Processing file /home/airflow/dags/avg_product_price.py for tasks to queue
+[2023-03-02 13:43:08,251] {logging_mixin.py:115} INFO - [2023-03-02 13:43:08,250] {dagbag.py:507} INFO - Filling up the DagBag from /home/airflow/dags/avg_product_price.py
+[2023-03-02 13:43:08,360] {processor.py:651} INFO - DAG(s) dict_keys(['avg_product_price']) retrieved from /home/airflow/dags/avg_product_price.py
+[2023-03-02 13:43:08,587] {logging_mixin.py:115} INFO - [2023-03-02 13:43:08,587] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-02 13:43:08,656] {logging_mixin.py:115} INFO - [2023-03-02 13:43:08,656] {dag.py:2931} INFO - Setting next_dagrun for avg_product_price to None, run_after=None
+[2023-03-02 13:43:08,705] {processor.py:161} INFO - Processing /home/airflow/dags/avg_product_price.py took 0.470 seconds
+[2023-03-02 13:43:39,184] {processor.py:153} INFO - Started process (PID=663) to work on /home/airflow/dags/avg_product_price.py
+[2023-03-02 13:43:39,186] {processor.py:641} INFO - Processing file /home/airflow/dags/avg_product_price.py for tasks to queue
+[2023-03-02 13:43:39,189] {logging_mixin.py:115} INFO - [2023-03-02 13:43:39,189] {dagbag.py:507} INFO - Filling up the DagBag from /home/airflow/dags/avg_product_price.py
+[2023-03-02 13:43:39,329] {processor.py:651} INFO - DAG(s) dict_keys(['avg_product_price']) retrieved from /home/airflow/dags/avg_product_price.py
+[2023-03-02 13:43:39,942] {logging_mixin.py:115} INFO - [2023-03-02 13:43:39,942] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-02 13:43:40,009] {logging_mixin.py:115} INFO - [2023-03-02 13:43:40,009] {dag.py:2931} INFO - Setting next_dagrun for avg_product_price to None, run_after=None
+[2023-03-02 13:43:40,054] {processor.py:161} INFO - Processing /home/airflow/dags/avg_product_price.py took 0.883 seconds
+[2023-03-02 13:44:10,502] {processor.py:153} INFO - Started process (PID=716) to work on /home/airflow/dags/avg_product_price.py
+[2023-03-02 13:44:10,505] {processor.py:641} INFO - Processing file /home/airflow/dags/avg_product_price.py for tasks to queue
+[2023-03-02 13:44:10,526] {logging_mixin.py:115} INFO - [2023-03-02 13:44:10,526] {dagbag.py:507} INFO - Filling up the DagBag from /home/airflow/dags/avg_product_price.py
+[2023-03-02 13:44:13,454] {processor.py:651} INFO - DAG(s) dict_keys(['avg_product_price']) retrieved from /home/airflow/dags/avg_product_price.py
+[2023-03-02 14:16:49,154] {processor.py:153} INFO - Started process (PID=192) to work on /home/airflow/dags/avg_product_price.py
+[2023-03-02 14:16:49,199] {processor.py:641} INFO - Processing file /home/airflow/dags/avg_product_price.py for tasks to queue
+[2023-03-02 14:16:49,212] {logging_mixin.py:115} INFO - [2023-03-02 14:16:49,209] {dagbag.py:507} INFO - Filling up the DagBag from /home/airflow/dags/avg_product_price.py
+[2023-03-02 14:16:49,689] {processor.py:651} INFO - DAG(s) dict_keys(['avg_product_price']) retrieved from /home/airflow/dags/avg_product_price.py
+[2023-03-02 14:16:50,055] {logging_mixin.py:115} INFO - [2023-03-02 14:16:50,055] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-02 14:16:51,225] {logging_mixin.py:115} INFO - [2023-03-02 14:16:51,224] {dag.py:2931} INFO - Setting next_dagrun for avg_product_price to None, run_after=None
+[2023-03-02 14:16:51,452] {processor.py:161} INFO - Processing /home/airflow/dags/avg_product_price.py took 2.327 seconds
+[2023-03-02 14:17:21,698] {processor.py:153} INFO - Started process (PID=309) to work on /home/airflow/dags/avg_product_price.py
+[2023-03-02 14:17:21,704] {processor.py:641} INFO - Processing file /home/airflow/dags/avg_product_price.py for tasks to queue
+[2023-03-02 14:17:21,718] {logging_mixin.py:115} INFO - [2023-03-02 14:17:21,718] {dagbag.py:507} INFO - Filling up the DagBag from /home/airflow/dags/avg_product_price.py
+[2023-03-02 14:17:22,204] {processor.py:651} INFO - DAG(s) dict_keys(['avg_product_price']) retrieved from /home/airflow/dags/avg_product_price.py
+[2023-03-02 14:17:22,926] {logging_mixin.py:115} INFO - [2023-03-02 14:17:22,926] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-02 14:17:23,374] {logging_mixin.py:115} INFO - [2023-03-02 14:17:23,374] {dag.py:2931} INFO - Setting next_dagrun for avg_product_price to None, run_after=None
+[2023-03-02 14:17:23,547] {processor.py:161} INFO - Processing /home/airflow/dags/avg_product_price.py took 1.861 seconds
+[2023-03-02 14:17:54,003] {processor.py:153} INFO - Started process (PID=405) to work on /home/airflow/dags/avg_product_price.py
+[2023-03-02 14:17:54,006] {processor.py:641} INFO - Processing file /home/airflow/dags/avg_product_price.py for tasks to queue
+[2023-03-02 14:17:54,013] {logging_mixin.py:115} INFO - [2023-03-02 14:17:54,013] {dagbag.py:507} INFO - Filling up the DagBag from /home/airflow/dags/avg_product_price.py
+[2023-03-02 14:17:54,298] {processor.py:651} INFO - DAG(s) dict_keys(['avg_product_price']) retrieved from /home/airflow/dags/avg_product_price.py
+[2023-03-02 14:17:54,433] {logging_mixin.py:115} INFO - [2023-03-02 14:17:54,433] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-02 14:17:54,519] {logging_mixin.py:115} INFO - [2023-03-02 14:17:54,519] {dag.py:2931} INFO - Setting next_dagrun for avg_product_price to None, run_after=None
+[2023-03-02 14:17:54,585] {processor.py:161} INFO - Processing /home/airflow/dags/avg_product_price.py took 0.598 seconds
+[2023-03-02 14:21:31,147] {processor.py:153} INFO - Started process (PID=176) to work on /home/airflow/dags/avg_product_price.py
+[2023-03-02 14:21:31,173] {processor.py:641} INFO - Processing file /home/airflow/dags/avg_product_price.py for tasks to queue
+[2023-03-02 14:21:31,175] {logging_mixin.py:115} INFO - [2023-03-02 14:21:31,175] {dagbag.py:507} INFO - Filling up the DagBag from /home/airflow/dags/avg_product_price.py
+[2023-03-02 14:21:31,273] {processor.py:651} INFO - DAG(s) dict_keys(['avg_product_price']) retrieved from /home/airflow/dags/avg_product_price.py
+[2023-03-02 14:21:31,318] {logging_mixin.py:115} INFO - [2023-03-02 14:21:31,318] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-02 14:21:31,374] {logging_mixin.py:115} INFO - [2023-03-02 14:21:31,374] {dag.py:2931} INFO - Setting next_dagrun for avg_product_price to None, run_after=None
+[2023-03-02 14:21:31,429] {processor.py:161} INFO - Processing /home/airflow/dags/avg_product_price.py took 0.290 seconds
+[2023-03-02 14:22:01,964] {processor.py:153} INFO - Started process (PID=186) to work on /home/airflow/dags/avg_product_price.py
+[2023-03-02 14:22:01,967] {processor.py:641} INFO - Processing file /home/airflow/dags/avg_product_price.py for tasks to queue
+[2023-03-02 14:22:01,970] {logging_mixin.py:115} INFO - [2023-03-02 14:22:01,970] {dagbag.py:507} INFO - Filling up the DagBag from /home/airflow/dags/avg_product_price.py
+[2023-03-02 14:22:02,081] {processor.py:651} INFO - DAG(s) dict_keys(['avg_product_price']) retrieved from /home/airflow/dags/avg_product_price.py
+[2023-03-02 14:22:02,190] {logging_mixin.py:115} INFO - [2023-03-02 14:22:02,189] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-02 14:22:02,353] {logging_mixin.py:115} INFO - [2023-03-02 14:22:02,353] {dag.py:2931} INFO - Setting next_dagrun for avg_product_price to None, run_after=None
+[2023-03-02 14:22:02,396] {processor.py:161} INFO - Processing /home/airflow/dags/avg_product_price.py took 0.440 seconds
+[2023-03-02 14:22:32,922] {processor.py:153} INFO - Started process (PID=261) to work on /home/airflow/dags/avg_product_price.py
+[2023-03-02 14:22:32,924] {processor.py:641} INFO - Processing file /home/airflow/dags/avg_product_price.py for tasks to queue
+[2023-03-02 14:22:32,927] {logging_mixin.py:115} INFO - [2023-03-02 14:22:32,926] {dagbag.py:507} INFO - Filling up the DagBag from /home/airflow/dags/avg_product_price.py
+[2023-03-02 14:22:33,075] {processor.py:651} INFO - DAG(s) dict_keys(['avg_product_price']) retrieved from /home/airflow/dags/avg_product_price.py
+[2023-03-02 14:22:33,434] {logging_mixin.py:115} INFO - [2023-03-02 14:22:33,433] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-02 14:22:33,499] {logging_mixin.py:115} INFO - [2023-03-02 14:22:33,499] {dag.py:2931} INFO - Setting next_dagrun for avg_product_price to None, run_after=None
+[2023-03-02 14:22:33,551] {processor.py:161} INFO - Processing /home/airflow/dags/avg_product_price.py took 0.640 seconds
+[2023-03-02 14:23:03,879] {processor.py:153} INFO - Started process (PID=324) to work on /home/airflow/dags/avg_product_price.py
+[2023-03-02 14:23:03,881] {processor.py:641} INFO - Processing file /home/airflow/dags/avg_product_price.py for tasks to queue
+[2023-03-02 14:23:03,884] {logging_mixin.py:115} INFO - [2023-03-02 14:23:03,884] {dagbag.py:507} INFO - Filling up the DagBag from /home/airflow/dags/avg_product_price.py
+[2023-03-02 14:23:04,032] {processor.py:651} INFO - DAG(s) dict_keys(['avg_product_price']) retrieved from /home/airflow/dags/avg_product_price.py
+[2023-03-02 14:23:04,133] {logging_mixin.py:115} INFO - [2023-03-02 14:23:04,133] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-02 14:23:04,250] {logging_mixin.py:115} INFO - [2023-03-02 14:23:04,249] {dag.py:2931} INFO - Setting next_dagrun for avg_product_price to None, run_after=None
+[2023-03-02 14:23:04,308] {processor.py:161} INFO - Processing /home/airflow/dags/avg_product_price.py took 0.440 seconds
+[2023-03-02 14:23:34,791] {processor.py:153} INFO - Started process (PID=387) to work on /home/airflow/dags/avg_product_price.py
+[2023-03-02 14:23:34,794] {processor.py:641} INFO - Processing file /home/airflow/dags/avg_product_price.py for tasks to queue
+[2023-03-02 14:23:34,797] {logging_mixin.py:115} INFO - [2023-03-02 14:23:34,796] {dagbag.py:507} INFO - Filling up the DagBag from /home/airflow/dags/avg_product_price.py
+[2023-03-02 14:23:35,767] {processor.py:651} INFO - DAG(s) dict_keys(['avg_product_price']) retrieved from /home/airflow/dags/avg_product_price.py
+[2023-03-02 14:23:35,941] {logging_mixin.py:115} INFO - [2023-03-02 14:23:35,940] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-02 14:23:36,470] {logging_mixin.py:115} INFO - [2023-03-02 14:23:36,470] {dag.py:2931} INFO - Setting next_dagrun for avg_product_price to None, run_after=None
+[2023-03-02 14:23:36,507] {processor.py:161} INFO - Processing /home/airflow/dags/avg_product_price.py took 1.736 seconds
+[2023-03-02 14:24:07,147] {processor.py:153} INFO - Started process (PID=397) to work on /home/airflow/dags/avg_product_price.py
+[2023-03-02 14:24:07,152] {processor.py:641} INFO - Processing file /home/airflow/dags/avg_product_price.py for tasks to queue
+[2023-03-02 14:24:07,158] {logging_mixin.py:115} INFO - [2023-03-02 14:24:07,157] {dagbag.py:507} INFO - Filling up the DagBag from /home/airflow/dags/avg_product_price.py
+[2023-03-02 14:24:07,298] {processor.py:651} INFO - DAG(s) dict_keys(['avg_product_price']) retrieved from /home/airflow/dags/avg_product_price.py
+[2023-03-02 14:24:07,402] {logging_mixin.py:115} INFO - [2023-03-02 14:24:07,402] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-02 14:24:07,481] {logging_mixin.py:115} INFO - [2023-03-02 14:24:07,481] {dag.py:2931} INFO - Setting next_dagrun for avg_product_price to None, run_after=None
+[2023-03-02 14:24:07,533] {processor.py:161} INFO - Processing /home/airflow/dags/avg_product_price.py took 0.414 seconds
+[2023-03-02 14:24:38,771] {processor.py:153} INFO - Started process (PID=407) to work on /home/airflow/dags/avg_product_price.py
+[2023-03-02 14:24:38,776] {processor.py:641} INFO - Processing file /home/airflow/dags/avg_product_price.py for tasks to queue
+[2023-03-02 14:24:38,782] {logging_mixin.py:115} INFO - [2023-03-02 14:24:38,781] {dagbag.py:507} INFO - Filling up the DagBag from /home/airflow/dags/avg_product_price.py
+[2023-03-02 14:24:39,945] {processor.py:651} INFO - DAG(s) dict_keys(['avg_product_price']) retrieved from /home/airflow/dags/avg_product_price.py
+[2023-03-02 14:24:40,091] {logging_mixin.py:115} INFO - [2023-03-02 14:24:40,090] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-02 14:24:40,161] {logging_mixin.py:115} INFO - [2023-03-02 14:24:40,160] {dag.py:2931} INFO - Setting next_dagrun for avg_product_price to None, run_after=None
+[2023-03-02 14:24:40,202] {processor.py:161} INFO - Processing /home/airflow/dags/avg_product_price.py took 1.473 seconds
+[2023-03-02 14:25:10,668] {processor.py:153} INFO - Started process (PID=417) to work on /home/airflow/dags/avg_product_price.py
+[2023-03-02 14:25:10,671] {processor.py:641} INFO - Processing file /home/airflow/dags/avg_product_price.py for tasks to queue
+[2023-03-02 14:25:10,675] {logging_mixin.py:115} INFO - [2023-03-02 14:25:10,675] {dagbag.py:507} INFO - Filling up the DagBag from /home/airflow/dags/avg_product_price.py
+[2023-03-02 14:25:10,875] {processor.py:651} INFO - DAG(s) dict_keys(['avg_product_price']) retrieved from /home/airflow/dags/avg_product_price.py
+[2023-03-02 14:25:11,081] {logging_mixin.py:115} INFO - [2023-03-02 14:25:11,081] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-02 14:25:11,154] {logging_mixin.py:115} INFO - [2023-03-02 14:25:11,154] {dag.py:2931} INFO - Setting next_dagrun for avg_product_price to None, run_after=None
+[2023-03-02 14:25:11,195] {processor.py:161} INFO - Processing /home/airflow/dags/avg_product_price.py took 0.544 seconds
+[2023-03-02 14:25:41,931] {processor.py:153} INFO - Started process (PID=427) to work on /home/airflow/dags/avg_product_price.py
+[2023-03-02 14:25:41,935] {processor.py:641} INFO - Processing file /home/airflow/dags/avg_product_price.py for tasks to queue
+[2023-03-02 14:25:41,940] {logging_mixin.py:115} INFO - [2023-03-02 14:25:41,940] {dagbag.py:507} INFO - Filling up the DagBag from /home/airflow/dags/avg_product_price.py
+[2023-03-02 14:25:42,125] {processor.py:651} INFO - DAG(s) dict_keys(['avg_product_price']) retrieved from /home/airflow/dags/avg_product_price.py
+[2023-03-02 14:25:42,217] {logging_mixin.py:115} INFO - [2023-03-02 14:25:42,217] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-02 14:25:42,272] {logging_mixin.py:115} INFO - [2023-03-02 14:25:42,272] {dag.py:2931} INFO - Setting next_dagrun for avg_product_price to None, run_after=None
+[2023-03-02 14:25:42,683] {processor.py:161} INFO - Processing /home/airflow/dags/avg_product_price.py took 0.774 seconds
+[2023-03-02 14:26:13,363] {processor.py:153} INFO - Started process (PID=437) to work on /home/airflow/dags/avg_product_price.py
+[2023-03-02 14:26:13,366] {processor.py:641} INFO - Processing file /home/airflow/dags/avg_product_price.py for tasks to queue
+[2023-03-02 14:26:13,368] {logging_mixin.py:115} INFO - [2023-03-02 14:26:13,368] {dagbag.py:507} INFO - Filling up the DagBag from /home/airflow/dags/avg_product_price.py
+[2023-03-02 14:26:13,652] {processor.py:651} INFO - DAG(s) dict_keys(['avg_product_price']) retrieved from /home/airflow/dags/avg_product_price.py
+[2023-03-02 14:26:13,983] {logging_mixin.py:115} INFO - [2023-03-02 14:26:13,982] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-02 14:26:14,080] {logging_mixin.py:115} INFO - [2023-03-02 14:26:14,080] {dag.py:2931} INFO - Setting next_dagrun for avg_product_price to None, run_after=None
+[2023-03-02 14:26:14,127] {processor.py:161} INFO - Processing /home/airflow/dags/avg_product_price.py took 0.773 seconds
+[2023-03-02 14:26:45,231] {processor.py:153} INFO - Started process (PID=447) to work on /home/airflow/dags/avg_product_price.py
+[2023-03-02 14:26:45,241] {processor.py:641} INFO - Processing file /home/airflow/dags/avg_product_price.py for tasks to queue
+[2023-03-02 14:26:45,247] {logging_mixin.py:115} INFO - [2023-03-02 14:26:45,246] {dagbag.py:507} INFO - Filling up the DagBag from /home/airflow/dags/avg_product_price.py
+[2023-03-02 14:26:45,855] {processor.py:651} INFO - DAG(s) dict_keys(['avg_product_price']) retrieved from /home/airflow/dags/avg_product_price.py
+[2023-03-02 14:26:46,046] {logging_mixin.py:115} INFO - [2023-03-02 14:26:46,045] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-02 14:26:46,122] {logging_mixin.py:115} INFO - [2023-03-02 14:26:46,121] {dag.py:2931} INFO - Setting next_dagrun for avg_product_price to None, run_after=None
+[2023-03-02 14:26:46,196] {processor.py:161} INFO - Processing /home/airflow/dags/avg_product_price.py took 0.995 seconds
+[2023-03-02 14:27:16,441] {processor.py:153} INFO - Started process (PID=457) to work on /home/airflow/dags/avg_product_price.py
+[2023-03-02 14:27:16,445] {processor.py:641} INFO - Processing file /home/airflow/dags/avg_product_price.py for tasks to queue
+[2023-03-02 14:27:16,448] {logging_mixin.py:115} INFO - [2023-03-02 14:27:16,448] {dagbag.py:507} INFO - Filling up the DagBag from /home/airflow/dags/avg_product_price.py
+[2023-03-02 14:27:16,582] {processor.py:651} INFO - DAG(s) dict_keys(['avg_product_price']) retrieved from /home/airflow/dags/avg_product_price.py
+[2023-03-02 14:27:16,907] {logging_mixin.py:115} INFO - [2023-03-02 14:27:16,906] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-02 14:27:17,047] {logging_mixin.py:115} INFO - [2023-03-02 14:27:17,047] {dag.py:2931} INFO - Setting next_dagrun for avg_product_price to None, run_after=None
+[2023-03-02 14:27:17,110] {processor.py:161} INFO - Processing /home/airflow/dags/avg_product_price.py took 0.693 seconds
+[2023-03-02 14:27:47,793] {processor.py:153} INFO - Started process (PID=467) to work on /home/airflow/dags/avg_product_price.py
+[2023-03-02 14:27:47,795] {processor.py:641} INFO - Processing file /home/airflow/dags/avg_product_price.py for tasks to queue
+[2023-03-02 14:27:47,801] {logging_mixin.py:115} INFO - [2023-03-02 14:27:47,801] {dagbag.py:507} INFO - Filling up the DagBag from /home/airflow/dags/avg_product_price.py
+[2023-03-02 14:27:47,889] {processor.py:651} INFO - DAG(s) dict_keys(['avg_product_price']) retrieved from /home/airflow/dags/avg_product_price.py
+[2023-03-02 14:27:47,957] {logging_mixin.py:115} INFO - [2023-03-02 14:27:47,957] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-02 14:27:48,032] {logging_mixin.py:115} INFO - [2023-03-02 14:27:48,031] {dag.py:2931} INFO - Setting next_dagrun for avg_product_price to None, run_after=None
+[2023-03-02 14:27:48,075] {processor.py:161} INFO - Processing /home/airflow/dags/avg_product_price.py took 0.290 seconds
+[2023-03-02 14:28:18,720] {processor.py:153} INFO - Started process (PID=499) to work on /home/airflow/dags/avg_product_price.py
+[2023-03-02 14:28:18,722] {processor.py:641} INFO - Processing file /home/airflow/dags/avg_product_price.py for tasks to queue
+[2023-03-02 14:28:18,724] {logging_mixin.py:115} INFO - [2023-03-02 14:28:18,724] {dagbag.py:507} INFO - Filling up the DagBag from /home/airflow/dags/avg_product_price.py
+[2023-03-02 14:28:18,851] {processor.py:651} INFO - DAG(s) dict_keys(['avg_product_price']) retrieved from /home/airflow/dags/avg_product_price.py
+[2023-03-02 14:28:18,914] {logging_mixin.py:115} INFO - [2023-03-02 14:28:18,914] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-02 14:28:18,981] {logging_mixin.py:115} INFO - [2023-03-02 14:28:18,981] {dag.py:2931} INFO - Setting next_dagrun for avg_product_price to None, run_after=None
+[2023-03-02 14:28:19,022] {processor.py:161} INFO - Processing /home/airflow/dags/avg_product_price.py took 0.316 seconds
+[2023-03-02 14:28:49,332] {processor.py:153} INFO - Started process (PID=597) to work on /home/airflow/dags/avg_product_price.py
+[2023-03-02 14:28:49,335] {processor.py:641} INFO - Processing file /home/airflow/dags/avg_product_price.py for tasks to queue
+[2023-03-02 14:28:49,337] {logging_mixin.py:115} INFO - [2023-03-02 14:28:49,337] {dagbag.py:507} INFO - Filling up the DagBag from /home/airflow/dags/avg_product_price.py
+[2023-03-02 14:28:49,771] {processor.py:651} INFO - DAG(s) dict_keys(['avg_product_price']) retrieved from /home/airflow/dags/avg_product_price.py
+[2023-03-02 14:28:51,219] {logging_mixin.py:115} INFO - [2023-03-02 14:28:51,219] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-02 14:28:51,315] {logging_mixin.py:115} INFO - [2023-03-02 14:28:51,314] {dag.py:2931} INFO - Setting next_dagrun for avg_product_price to None, run_after=None
+[2023-03-02 14:28:51,373] {processor.py:161} INFO - Processing /home/airflow/dags/avg_product_price.py took 2.061 seconds
+[2023-03-02 14:32:54,556] {processor.py:153} INFO - Started process (PID=615) to work on /home/airflow/dags/avg_product_price.py
+[2023-03-02 14:33:00,169] {processor.py:641} INFO - Processing file /home/airflow/dags/avg_product_price.py for tasks to queue
+[2023-03-02 14:33:07,391] {logging_mixin.py:115} INFO - [2023-03-02 14:33:05,960] {dagbag.py:507} INFO - Filling up the DagBag from /home/airflow/dags/avg_product_price.py
+[2023-03-02 14:33:59,067] {logging_mixin.py:115} INFO - [2023-03-02 14:33:52,048] {timeout.py:67} ERROR - Process timed out, PID: 615
+[2023-03-02 14:34:15,967] {logging_mixin.py:115} INFO - [2023-03-02 14:34:04,854] {dagbag.py:320} ERROR - Failed to import: /home/airflow/dags/avg_product_price.py
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/home/airflow/dags/avg_product_price.py", line 3, in <module>
+    from airflow.contrib.operators.spark_submit_operator import SparkSubmitOperator
+  File "<frozen importlib._bootstrap>", line 983, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 967, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 677, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 724, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 818, in get_code
+  File "<frozen importlib._bootstrap_external>", line 916, in get_data
+  File "/usr/local/lib/python3.7/site-packages/airflow/utils/timeout.py", line 68, in handle_timeout
+    raise AirflowTaskTimeout(self.error_message)
+airflow.exceptions.AirflowTaskTimeout: DagBag import timeout for /home/airflow/dags/avg_product_price.py after 30.0s.
+Please take a look at these docs to improve your DAG import time:
+* https://airflow.apache.org/docs/apache-airflow/2.3.2/best-practices.html#top-level-python-code
+* https://airflow.apache.org/docs/apache-airflow/2.3.2/best-practices.html#reducing-dag-complexity, PID: 615
+[2023-03-02 14:34:18,843] {processor.py:653} WARNING - No viable dags retrieved from /home/airflow/dags/avg_product_price.py
+[2023-03-02 14:34:48,027] {processor.py:164} ERROR - Got an exception! Propagating...
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 3141, in _wrap_pool_connect
+    return fn()
+  File "/usr/local/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 301, in connect
+    return _ConnectionFairy._checkout(self)
+  File "/usr/local/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 755, in _checkout
+    fairy = _ConnectionRecord.checkout(pool)
+  File "/usr/local/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 419, in checkout
+    rec = pool._do_get()
+  File "/usr/local/lib/python3.7/site-packages/sqlalchemy/pool/impl.py", line 145, in _do_get
+    self._dec_overflow()
+  File "/usr/local/lib/python3.7/site-packages/sqlalchemy/util/langhelpers.py", line 72, in __exit__
+    with_traceback=exc_tb,
+  File "/usr/local/lib/python3.7/site-packages/sqlalchemy/util/compat.py", line 211, in raise_
+    raise exception
+  File "/usr/local/lib/python3.7/site-packages/sqlalchemy/pool/impl.py", line 142, in _do_get
+    return self._create_connection()
+  File "/usr/local/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 247, in _create_connection
+    return _ConnectionRecord(self)
+  File "/usr/local/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 362, in __init__
+    self.__connect(first_connect_check=True)
+  File "/usr/local/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 605, in __connect
+    pool.logger.debug("Error on connect(): %s", e)
+  File "/usr/local/lib/python3.7/site-packages/sqlalchemy/util/langhelpers.py", line 72, in __exit__
+    with_traceback=exc_tb,
+  File "/usr/local/lib/python3.7/site-packages/sqlalchemy/util/compat.py", line 211, in raise_
+    raise exception
+  File "/usr/local/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 599, in __connect
+    connection = pool._invoke_creator(self)
+  File "/usr/local/lib/python3.7/site-packages/sqlalchemy/engine/create.py", line 578, in connect
+    return dialect.connect(*cargs, **cparams)
+  File "/usr/local/lib/python3.7/site-packages/sqlalchemy/engine/default.py", line 583, in connect
+    return self.dbapi.connect(*cargs, **cparams)
+  File "/usr/local/lib/python3.7/site-packages/psycopg2/__init__.py", line 122, in connect
+    conn = _connect(dsn, connection_factory=connection_factory, **kwasync)
+psycopg2.OperationalError: could not translate host name "postgres" to address: Temporary failure in name resolution
+
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/airflow/dag_processing/processor.py", line 158, in _run_file_processor
+    callback_requests=callback_requests,
+  File "/usr/local/lib/python3.7/site-packages/airflow/utils/session.py", line 71, in wrapper
+    return func(*args, session=session, **kwargs)
+  File "/usr/local/lib/python3.7/site-packages/airflow/dag_processing/processor.py", line 654, in process_file
+    self.update_import_errors(session, dagbag)
+  File "/usr/local/lib/python3.7/site-packages/airflow/dag_processing/processor.py", line 541, in update_import_errors
+    existing_import_error_files = [x.filename for x in session.query(errors.ImportError.filename).all()]
+  File "/usr/local/lib/python3.7/site-packages/sqlalchemy/orm/query.py", line 2683, in all
+    return self._iter().all()
+  File "/usr/local/lib/python3.7/site-packages/sqlalchemy/orm/query.py", line 2821, in _iter
+    execution_options={"_sa_orm_load_options": self.load_options},
+  File "/usr/local/lib/python3.7/site-packages/sqlalchemy/orm/session.py", line 1669, in execute
+    conn = self._connection_for_bind(bind, close_with_result=True)
+  File "/usr/local/lib/python3.7/site-packages/sqlalchemy/orm/session.py", line 1520, in _connection_for_bind
+    engine, execution_options
+  File "/usr/local/lib/python3.7/site-packages/sqlalchemy/orm/session.py", line 747, in _connection_for_bind
+    conn = bind.connect()
+  File "/usr/local/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 3095, in connect
+    return self._connection_cls(self, close_with_result=close_with_result)
+  File "/usr/local/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 91, in __init__
+    else engine.raw_connection()
+  File "/usr/local/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 3174, in raw_connection
+    return self._wrap_pool_connect(self.pool.connect, _connection)
+  File "/usr/local/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 3145, in _wrap_pool_connect
+    e, dialect, self
+  File "/usr/local/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 2004, in _handle_dbapi_exception_noconnection
+    sqlalchemy_exception, with_traceback=exc_info[2], from_=e
+  File "/usr/local/lib/python3.7/site-packages/sqlalchemy/util/compat.py", line 211, in raise_
+    raise exception
+  File "/usr/local/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 3141, in _wrap_pool_connect
+    return fn()
+  File "/usr/local/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 301, in connect
+    return _ConnectionFairy._checkout(self)
+  File "/usr/local/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 755, in _checkout
+    fairy = _ConnectionRecord.checkout(pool)
+  File "/usr/local/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 419, in checkout
+    rec = pool._do_get()
+  File "/usr/local/lib/python3.7/site-packages/sqlalchemy/pool/impl.py", line 145, in _do_get
+    self._dec_overflow()
+  File "/usr/local/lib/python3.7/site-packages/sqlalchemy/util/langhelpers.py", line 72, in __exit__
+    with_traceback=exc_tb,
+  File "/usr/local/lib/python3.7/site-packages/sqlalchemy/util/compat.py", line 211, in raise_
+    raise exception
+  File "/usr/local/lib/python3.7/site-packages/sqlalchemy/pool/impl.py", line 142, in _do_get
+    return self._create_connection()
+  File "/usr/local/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 247, in _create_connection
+    return _ConnectionRecord(self)
+  File "/usr/local/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 362, in __init__
+    self.__connect(first_connect_check=True)
+  File "/usr/local/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 605, in __connect
+    pool.logger.debug("Error on connect(): %s", e)
+  File "/usr/local/lib/python3.7/site-packages/sqlalchemy/util/langhelpers.py", line 72, in __exit__
+    with_traceback=exc_tb,
+  File "/usr/local/lib/python3.7/site-packages/sqlalchemy/util/compat.py", line 211, in raise_
+    raise exception
+  File "/usr/local/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 599, in __connect
+    connection = pool._invoke_creator(self)
+  File "/usr/local/lib/python3.7/site-packages/sqlalchemy/engine/create.py", line 578, in connect
+    return dialect.connect(*cargs, **cparams)
+  File "/usr/local/lib/python3.7/site-packages/sqlalchemy/engine/default.py", line 583, in connect
+    return self.dbapi.connect(*cargs, **cparams)
+  File "/usr/local/lib/python3.7/site-packages/psycopg2/__init__.py", line 122, in connect
+    conn = _connect(dsn, connection_factory=connection_factory, **kwasync)
+sqlalchemy.exc.OperationalError: (psycopg2.OperationalError) could not translate host name "postgres" to address: Temporary failure in name resolution
+
+(Background on this error at: http://sqlalche.me/e/14/e3q8)
+[2023-03-02 14:35:38,406] {processor.py:153} INFO - Started process (PID=626) to work on /home/airflow/dags/avg_product_price.py
+[2023-03-02 14:35:38,423] {processor.py:641} INFO - Processing file /home/airflow/dags/avg_product_price.py for tasks to queue
+[2023-03-02 14:35:38,425] {logging_mixin.py:115} INFO - [2023-03-02 14:35:38,425] {dagbag.py:507} INFO - Filling up the DagBag from /home/airflow/dags/avg_product_price.py
+[2023-03-02 14:35:41,524] {processor.py:651} INFO - DAG(s) dict_keys(['avg_product_price']) retrieved from /home/airflow/dags/avg_product_price.py
+[2023-03-02 15:29:39,832] {logging_mixin.py:115} INFO - [2023-03-02 15:29:39,821] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-02 15:29:40,183] {processor.py:153} INFO - Started process (PID=635) to work on /home/airflow/dags/avg_product_price.py
+[2023-03-02 15:29:40,185] {processor.py:641} INFO - Processing file /home/airflow/dags/avg_product_price.py for tasks to queue
+[2023-03-02 15:29:40,187] {logging_mixin.py:115} INFO - [2023-03-02 15:29:40,187] {dagbag.py:507} INFO - Filling up the DagBag from /home/airflow/dags/avg_product_price.py
+[2023-03-02 15:29:40,420] {processor.py:651} INFO - DAG(s) dict_keys(['avg_product_price']) retrieved from /home/airflow/dags/avg_product_price.py
+[2023-03-02 15:29:40,466] {logging_mixin.py:115} INFO - [2023-03-02 15:29:40,466] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-02 15:29:40,787] {logging_mixin.py:115} INFO - [2023-03-02 15:29:40,787] {dag.py:2931} INFO - Setting next_dagrun for avg_product_price to None, run_after=None
+[2023-03-02 15:29:40,865] {processor.py:161} INFO - Processing /home/airflow/dags/avg_product_price.py took 0.692 seconds
+[2023-03-02 15:30:11,147] {processor.py:153} INFO - Started process (PID=645) to work on /home/airflow/dags/avg_product_price.py
+[2023-03-02 15:30:11,148] {processor.py:641} INFO - Processing file /home/airflow/dags/avg_product_price.py for tasks to queue
+[2023-03-02 15:30:11,149] {logging_mixin.py:115} INFO - [2023-03-02 15:30:11,149] {dagbag.py:507} INFO - Filling up the DagBag from /home/airflow/dags/avg_product_price.py
+[2023-03-02 15:30:11,243] {processor.py:651} INFO - DAG(s) dict_keys(['avg_product_price']) retrieved from /home/airflow/dags/avg_product_price.py
+[2023-03-02 15:30:11,599] {processor.py:611} INFO - Executed failure callback for <TaskInstance: avg_product_price.spark_submit manual__2023-03-02T14:22:09.641171+00:00 [failed]> in state failed
+[2023-03-02 15:30:11,616] {logging_mixin.py:115} INFO - [2023-03-02 15:30:11,616] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-02 15:30:11,643] {logging_mixin.py:115} INFO - [2023-03-02 15:30:11,643] {dag.py:2931} INFO - Setting next_dagrun for avg_product_price to None, run_after=None
+[2023-03-02 15:30:11,663] {processor.py:161} INFO - Processing /home/airflow/dags/avg_product_price.py took 0.528 seconds
+[2023-03-02 15:30:41,968] {processor.py:153} INFO - Started process (PID=655) to work on /home/airflow/dags/avg_product_price.py
+[2023-03-02 15:30:41,970] {processor.py:641} INFO - Processing file /home/airflow/dags/avg_product_price.py for tasks to queue
+[2023-03-02 15:30:41,972] {logging_mixin.py:115} INFO - [2023-03-02 15:30:41,971] {dagbag.py:507} INFO - Filling up the DagBag from /home/airflow/dags/avg_product_price.py
+[2023-03-02 15:30:42,106] {processor.py:651} INFO - DAG(s) dict_keys(['avg_product_price']) retrieved from /home/airflow/dags/avg_product_price.py
+[2023-03-02 15:30:42,333] {logging_mixin.py:115} INFO - [2023-03-02 15:30:42,333] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-02 15:30:42,380] {logging_mixin.py:115} INFO - [2023-03-02 15:30:42,380] {dag.py:2931} INFO - Setting next_dagrun for avg_product_price to None, run_after=None
+[2023-03-02 15:30:42,430] {processor.py:161} INFO - Processing /home/airflow/dags/avg_product_price.py took 0.484 seconds
+[2023-03-02 15:31:13,564] {processor.py:153} INFO - Started process (PID=665) to work on /home/airflow/dags/avg_product_price.py
+[2023-03-02 15:31:13,565] {processor.py:641} INFO - Processing file /home/airflow/dags/avg_product_price.py for tasks to queue
+[2023-03-02 15:31:13,566] {logging_mixin.py:115} INFO - [2023-03-02 15:31:13,566] {dagbag.py:507} INFO - Filling up the DagBag from /home/airflow/dags/avg_product_price.py
+[2023-03-02 15:31:13,645] {processor.py:651} INFO - DAG(s) dict_keys(['avg_product_price']) retrieved from /home/airflow/dags/avg_product_price.py
+[2023-03-02 15:31:13,881] {logging_mixin.py:115} INFO - [2023-03-02 15:31:13,881] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-02 15:31:13,916] {logging_mixin.py:115} INFO - [2023-03-02 15:31:13,916] {dag.py:2931} INFO - Setting next_dagrun for avg_product_price to None, run_after=None
+[2023-03-02 15:31:13,951] {processor.py:161} INFO - Processing /home/airflow/dags/avg_product_price.py took 0.402 seconds
+[2023-03-02 15:31:44,364] {processor.py:153} INFO - Started process (PID=675) to work on /home/airflow/dags/avg_product_price.py
+[2023-03-02 15:31:44,365] {processor.py:641} INFO - Processing file /home/airflow/dags/avg_product_price.py for tasks to queue
+[2023-03-02 15:31:44,367] {logging_mixin.py:115} INFO - [2023-03-02 15:31:44,366] {dagbag.py:507} INFO - Filling up the DagBag from /home/airflow/dags/avg_product_price.py
+[2023-03-02 15:31:44,438] {processor.py:651} INFO - DAG(s) dict_keys(['avg_product_price']) retrieved from /home/airflow/dags/avg_product_price.py
+[2023-03-02 15:31:44,524] {logging_mixin.py:115} INFO - [2023-03-02 15:31:44,523] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-02 15:31:44,571] {logging_mixin.py:115} INFO - [2023-03-02 15:31:44,571] {dag.py:2931} INFO - Setting next_dagrun for avg_product_price to None, run_after=None
+[2023-03-02 15:31:44,626] {processor.py:161} INFO - Processing /home/airflow/dags/avg_product_price.py took 0.269 seconds
+[2023-03-02 15:32:14,950] {processor.py:153} INFO - Started process (PID=685) to work on /home/airflow/dags/avg_product_price.py
+[2023-03-02 15:32:14,952] {processor.py:641} INFO - Processing file /home/airflow/dags/avg_product_price.py for tasks to queue
+[2023-03-02 15:32:14,953] {logging_mixin.py:115} INFO - [2023-03-02 15:32:14,953] {dagbag.py:507} INFO - Filling up the DagBag from /home/airflow/dags/avg_product_price.py
+[2023-03-02 15:32:15,018] {processor.py:651} INFO - DAG(s) dict_keys(['avg_product_price']) retrieved from /home/airflow/dags/avg_product_price.py
+[2023-03-02 15:32:15,093] {logging_mixin.py:115} INFO - [2023-03-02 15:32:15,093] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-02 15:32:15,125] {logging_mixin.py:115} INFO - [2023-03-02 15:32:15,125] {dag.py:2931} INFO - Setting next_dagrun for avg_product_price to None, run_after=None
+[2023-03-02 15:32:15,170] {processor.py:161} INFO - Processing /home/airflow/dags/avg_product_price.py took 0.226 seconds
+[2023-03-02 15:32:45,572] {processor.py:153} INFO - Started process (PID=695) to work on /home/airflow/dags/avg_product_price.py
+[2023-03-02 15:32:45,574] {processor.py:641} INFO - Processing file /home/airflow/dags/avg_product_price.py for tasks to queue
+[2023-03-02 15:32:45,576] {logging_mixin.py:115} INFO - [2023-03-02 15:32:45,576] {dagbag.py:507} INFO - Filling up the DagBag from /home/airflow/dags/avg_product_price.py
+[2023-03-02 15:32:45,645] {processor.py:651} INFO - DAG(s) dict_keys(['avg_product_price']) retrieved from /home/airflow/dags/avg_product_price.py
+[2023-03-02 15:32:45,853] {logging_mixin.py:115} INFO - [2023-03-02 15:32:45,853] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-02 15:32:45,900] {logging_mixin.py:115} INFO - [2023-03-02 15:32:45,900] {dag.py:2931} INFO - Setting next_dagrun for avg_product_price to None, run_after=None
+[2023-03-02 15:32:45,942] {processor.py:161} INFO - Processing /home/airflow/dags/avg_product_price.py took 0.395 seconds
+[2023-03-02 15:33:16,285] {processor.py:153} INFO - Started process (PID=705) to work on /home/airflow/dags/avg_product_price.py
+[2023-03-02 15:33:16,286] {processor.py:641} INFO - Processing file /home/airflow/dags/avg_product_price.py for tasks to queue
+[2023-03-02 15:33:16,287] {logging_mixin.py:115} INFO - [2023-03-02 15:33:16,287] {dagbag.py:507} INFO - Filling up the DagBag from /home/airflow/dags/avg_product_price.py
+[2023-03-02 15:33:16,350] {processor.py:651} INFO - DAG(s) dict_keys(['avg_product_price']) retrieved from /home/airflow/dags/avg_product_price.py
+[2023-03-02 15:33:16,484] {logging_mixin.py:115} INFO - [2023-03-02 15:33:16,484] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-02 15:33:16,515] {logging_mixin.py:115} INFO - [2023-03-02 15:33:16,515] {dag.py:2931} INFO - Setting next_dagrun for avg_product_price to None, run_after=None
+[2023-03-02 15:33:16,544] {processor.py:161} INFO - Processing /home/airflow/dags/avg_product_price.py took 0.266 seconds
+[2023-03-02 15:33:46,819] {processor.py:153} INFO - Started process (PID=715) to work on /home/airflow/dags/avg_product_price.py
+[2023-03-02 15:33:46,820] {processor.py:641} INFO - Processing file /home/airflow/dags/avg_product_price.py for tasks to queue
+[2023-03-02 15:33:46,823] {logging_mixin.py:115} INFO - [2023-03-02 15:33:46,823] {dagbag.py:507} INFO - Filling up the DagBag from /home/airflow/dags/avg_product_price.py
+[2023-03-02 15:33:46,900] {processor.py:651} INFO - DAG(s) dict_keys(['avg_product_price']) retrieved from /home/airflow/dags/avg_product_price.py
+[2023-03-02 15:33:47,081] {logging_mixin.py:115} INFO - [2023-03-02 15:33:47,081] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-02 15:33:47,117] {logging_mixin.py:115} INFO - [2023-03-02 15:33:47,117] {dag.py:2931} INFO - Setting next_dagrun for avg_product_price to None, run_after=None
+[2023-03-02 15:33:47,146] {processor.py:161} INFO - Processing /home/airflow/dags/avg_product_price.py took 0.334 seconds
+[2023-03-02 15:34:17,862] {processor.py:153} INFO - Started process (PID=725) to work on /home/airflow/dags/avg_product_price.py
+[2023-03-02 15:34:17,863] {processor.py:641} INFO - Processing file /home/airflow/dags/avg_product_price.py for tasks to queue
+[2023-03-02 15:34:17,865] {logging_mixin.py:115} INFO - [2023-03-02 15:34:17,865] {dagbag.py:507} INFO - Filling up the DagBag from /home/airflow/dags/avg_product_price.py
+[2023-03-02 15:34:18,009] {processor.py:651} INFO - DAG(s) dict_keys(['avg_product_price']) retrieved from /home/airflow/dags/avg_product_price.py
+[2023-03-02 15:34:18,237] {logging_mixin.py:115} INFO - [2023-03-02 15:34:18,237] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-02 15:34:18,272] {logging_mixin.py:115} INFO - [2023-03-02 15:34:18,272] {dag.py:2931} INFO - Setting next_dagrun for avg_product_price to None, run_after=None
+[2023-03-02 15:34:18,300] {processor.py:161} INFO - Processing /home/airflow/dags/avg_product_price.py took 0.454 seconds
+[2023-03-02 15:34:48,530] {processor.py:153} INFO - Started process (PID=735) to work on /home/airflow/dags/avg_product_price.py
+[2023-03-02 15:34:48,531] {processor.py:641} INFO - Processing file /home/airflow/dags/avg_product_price.py for tasks to queue
+[2023-03-02 15:34:48,533] {logging_mixin.py:115} INFO - [2023-03-02 15:34:48,532] {dagbag.py:507} INFO - Filling up the DagBag from /home/airflow/dags/avg_product_price.py
+[2023-03-02 15:34:48,613] {processor.py:651} INFO - DAG(s) dict_keys(['avg_product_price']) retrieved from /home/airflow/dags/avg_product_price.py
+[2023-03-02 15:34:48,771] {logging_mixin.py:115} INFO - [2023-03-02 15:34:48,771] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-02 15:34:48,810] {logging_mixin.py:115} INFO - [2023-03-02 15:34:48,810] {dag.py:2931} INFO - Setting next_dagrun for avg_product_price to None, run_after=None
+[2023-03-02 15:34:48,838] {processor.py:161} INFO - Processing /home/airflow/dags/avg_product_price.py took 0.322 seconds
+[2023-03-02 15:35:18,953] {processor.py:153} INFO - Started process (PID=745) to work on /home/airflow/dags/avg_product_price.py
+[2023-03-02 15:35:18,954] {processor.py:641} INFO - Processing file /home/airflow/dags/avg_product_price.py for tasks to queue
+[2023-03-02 15:35:18,955] {logging_mixin.py:115} INFO - [2023-03-02 15:35:18,955] {dagbag.py:507} INFO - Filling up the DagBag from /home/airflow/dags/avg_product_price.py
+[2023-03-02 15:35:19,046] {processor.py:651} INFO - DAG(s) dict_keys(['avg_product_price']) retrieved from /home/airflow/dags/avg_product_price.py
+[2023-03-02 15:35:19,145] {logging_mixin.py:115} INFO - [2023-03-02 15:35:19,145] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-02 15:35:19,174] {logging_mixin.py:115} INFO - [2023-03-02 15:35:19,173] {dag.py:2931} INFO - Setting next_dagrun for avg_product_price to None, run_after=None
+[2023-03-02 15:35:19,196] {processor.py:161} INFO - Processing /home/airflow/dags/avg_product_price.py took 0.251 seconds
+[2023-03-02 15:35:49,658] {processor.py:153} INFO - Started process (PID=755) to work on /home/airflow/dags/avg_product_price.py
+[2023-03-02 15:35:49,659] {processor.py:641} INFO - Processing file /home/airflow/dags/avg_product_price.py for tasks to queue
+[2023-03-02 15:35:49,660] {logging_mixin.py:115} INFO - [2023-03-02 15:35:49,660] {dagbag.py:507} INFO - Filling up the DagBag from /home/airflow/dags/avg_product_price.py
+[2023-03-02 15:35:49,773] {processor.py:651} INFO - DAG(s) dict_keys(['avg_product_price']) retrieved from /home/airflow/dags/avg_product_price.py
+[2023-03-02 15:35:49,999] {logging_mixin.py:115} INFO - [2023-03-02 15:35:49,999] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-02 15:35:50,036] {logging_mixin.py:115} INFO - [2023-03-02 15:35:50,036] {dag.py:2931} INFO - Setting next_dagrun for avg_product_price to None, run_after=None
+[2023-03-02 15:35:50,062] {processor.py:161} INFO - Processing /home/airflow/dags/avg_product_price.py took 0.413 seconds
+[2023-03-02 15:36:20,377] {processor.py:153} INFO - Started process (PID=765) to work on /home/airflow/dags/avg_product_price.py
+[2023-03-02 15:36:20,378] {processor.py:641} INFO - Processing file /home/airflow/dags/avg_product_price.py for tasks to queue
+[2023-03-02 15:36:20,379] {logging_mixin.py:115} INFO - [2023-03-02 15:36:20,379] {dagbag.py:507} INFO - Filling up the DagBag from /home/airflow/dags/avg_product_price.py
+[2023-03-02 15:36:20,574] {processor.py:651} INFO - DAG(s) dict_keys(['avg_product_price']) retrieved from /home/airflow/dags/avg_product_price.py
+[2023-03-02 15:36:20,737] {logging_mixin.py:115} INFO - [2023-03-02 15:36:20,737] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-02 15:36:20,770] {logging_mixin.py:115} INFO - [2023-03-02 15:36:20,770] {dag.py:2931} INFO - Setting next_dagrun for avg_product_price to None, run_after=None
+[2023-03-02 15:36:20,801] {processor.py:161} INFO - Processing /home/airflow/dags/avg_product_price.py took 0.429 seconds
+[2023-03-02 15:36:51,192] {processor.py:153} INFO - Started process (PID=775) to work on /home/airflow/dags/avg_product_price.py
+[2023-03-02 15:36:51,193] {processor.py:641} INFO - Processing file /home/airflow/dags/avg_product_price.py for tasks to queue
+[2023-03-02 15:36:51,195] {logging_mixin.py:115} INFO - [2023-03-02 15:36:51,195] {dagbag.py:507} INFO - Filling up the DagBag from /home/airflow/dags/avg_product_price.py
+[2023-03-02 15:36:51,259] {processor.py:651} INFO - DAG(s) dict_keys(['avg_product_price']) retrieved from /home/airflow/dags/avg_product_price.py
+[2023-03-02 15:36:51,438] {logging_mixin.py:115} INFO - [2023-03-02 15:36:51,438] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-02 15:36:51,471] {logging_mixin.py:115} INFO - [2023-03-02 15:36:51,471] {dag.py:2931} INFO - Setting next_dagrun for avg_product_price to None, run_after=None
+[2023-03-02 15:36:51,503] {processor.py:161} INFO - Processing /home/airflow/dags/avg_product_price.py took 0.316 seconds
+[2023-03-02 15:37:21,800] {processor.py:153} INFO - Started process (PID=785) to work on /home/airflow/dags/avg_product_price.py
+[2023-03-02 15:37:21,801] {processor.py:641} INFO - Processing file /home/airflow/dags/avg_product_price.py for tasks to queue
+[2023-03-02 15:37:21,803] {logging_mixin.py:115} INFO - [2023-03-02 15:37:21,803] {dagbag.py:507} INFO - Filling up the DagBag from /home/airflow/dags/avg_product_price.py
+[2023-03-02 15:37:21,869] {processor.py:651} INFO - DAG(s) dict_keys(['avg_product_price']) retrieved from /home/airflow/dags/avg_product_price.py
+[2023-03-02 15:37:22,062] {logging_mixin.py:115} INFO - [2023-03-02 15:37:22,062] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-02 15:37:22,145] {logging_mixin.py:115} INFO - [2023-03-02 15:37:22,145] {dag.py:2931} INFO - Setting next_dagrun for avg_product_price to None, run_after=None
+[2023-03-02 15:37:22,169] {processor.py:161} INFO - Processing /home/airflow/dags/avg_product_price.py took 0.377 seconds
+[2023-03-02 15:37:52,507] {processor.py:153} INFO - Started process (PID=795) to work on /home/airflow/dags/avg_product_price.py
+[2023-03-02 15:37:52,509] {processor.py:641} INFO - Processing file /home/airflow/dags/avg_product_price.py for tasks to queue
+[2023-03-02 15:37:52,510] {logging_mixin.py:115} INFO - [2023-03-02 15:37:52,510] {dagbag.py:507} INFO - Filling up the DagBag from /home/airflow/dags/avg_product_price.py
+[2023-03-02 15:37:52,572] {processor.py:651} INFO - DAG(s) dict_keys(['avg_product_price']) retrieved from /home/airflow/dags/avg_product_price.py
+[2023-03-02 15:37:52,710] {logging_mixin.py:115} INFO - [2023-03-02 15:37:52,710] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-02 15:37:52,742] {logging_mixin.py:115} INFO - [2023-03-02 15:37:52,742] {dag.py:2931} INFO - Setting next_dagrun for avg_product_price to None, run_after=None
+[2023-03-02 15:37:52,770] {processor.py:161} INFO - Processing /home/airflow/dags/avg_product_price.py took 0.272 seconds
+[2023-03-02 15:38:23,158] {processor.py:153} INFO - Started process (PID=805) to work on /home/airflow/dags/avg_product_price.py
+[2023-03-02 15:38:23,159] {processor.py:641} INFO - Processing file /home/airflow/dags/avg_product_price.py for tasks to queue
+[2023-03-02 15:38:23,161] {logging_mixin.py:115} INFO - [2023-03-02 15:38:23,160] {dagbag.py:507} INFO - Filling up the DagBag from /home/airflow/dags/avg_product_price.py
+[2023-03-02 15:38:23,250] {processor.py:651} INFO - DAG(s) dict_keys(['avg_product_price']) retrieved from /home/airflow/dags/avg_product_price.py
+[2023-03-02 15:38:23,466] {logging_mixin.py:115} INFO - [2023-03-02 15:38:23,466] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-02 15:38:23,502] {logging_mixin.py:115} INFO - [2023-03-02 15:38:23,502] {dag.py:2931} INFO - Setting next_dagrun for avg_product_price to None, run_after=None
+[2023-03-02 15:38:23,529] {processor.py:161} INFO - Processing /home/airflow/dags/avg_product_price.py took 0.390 seconds
+[2023-03-02 15:38:53,838] {processor.py:153} INFO - Started process (PID=815) to work on /home/airflow/dags/avg_product_price.py
+[2023-03-02 15:38:53,841] {processor.py:641} INFO - Processing file /home/airflow/dags/avg_product_price.py for tasks to queue
+[2023-03-02 15:38:53,842] {logging_mixin.py:115} INFO - [2023-03-02 15:38:53,842] {dagbag.py:507} INFO - Filling up the DagBag from /home/airflow/dags/avg_product_price.py
+[2023-03-02 15:38:53,936] {processor.py:651} INFO - DAG(s) dict_keys(['avg_product_price']) retrieved from /home/airflow/dags/avg_product_price.py
+[2023-03-02 15:38:54,185] {logging_mixin.py:115} INFO - [2023-03-02 15:38:54,184] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-02 15:38:54,224] {logging_mixin.py:115} INFO - [2023-03-02 15:38:54,224] {dag.py:2931} INFO - Setting next_dagrun for avg_product_price to None, run_after=None
+[2023-03-02 15:38:54,256] {processor.py:161} INFO - Processing /home/airflow/dags/avg_product_price.py took 0.426 seconds
+[2023-03-02 15:39:24,662] {processor.py:153} INFO - Started process (PID=825) to work on /home/airflow/dags/avg_product_price.py
+[2023-03-02 15:39:24,666] {processor.py:641} INFO - Processing file /home/airflow/dags/avg_product_price.py for tasks to queue
+[2023-03-02 15:39:24,668] {logging_mixin.py:115} INFO - [2023-03-02 15:39:24,667] {dagbag.py:507} INFO - Filling up the DagBag from /home/airflow/dags/avg_product_price.py
+[2023-03-02 15:39:24,791] {processor.py:651} INFO - DAG(s) dict_keys(['avg_product_price']) retrieved from /home/airflow/dags/avg_product_price.py
+[2023-03-02 15:39:25,153] {logging_mixin.py:115} INFO - [2023-03-02 15:39:25,153] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-02 15:39:25,242] {logging_mixin.py:115} INFO - [2023-03-02 15:39:25,242] {dag.py:2931} INFO - Setting next_dagrun for avg_product_price to None, run_after=None
+[2023-03-02 15:39:25,288] {processor.py:161} INFO - Processing /home/airflow/dags/avg_product_price.py took 0.638 seconds
+[2023-03-02 15:39:55,965] {processor.py:153} INFO - Started process (PID=835) to work on /home/airflow/dags/avg_product_price.py
+[2023-03-02 15:39:55,968] {processor.py:641} INFO - Processing file /home/airflow/dags/avg_product_price.py for tasks to queue
+[2023-03-02 15:39:55,973] {logging_mixin.py:115} INFO - [2023-03-02 15:39:55,973] {dagbag.py:507} INFO - Filling up the DagBag from /home/airflow/dags/avg_product_price.py
+[2023-03-02 15:39:56,025] {processor.py:651} INFO - DAG(s) dict_keys(['avg_product_price']) retrieved from /home/airflow/dags/avg_product_price.py
+[2023-03-02 15:39:56,057] {logging_mixin.py:115} INFO - [2023-03-02 15:39:56,057] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-02 15:39:56,095] {logging_mixin.py:115} INFO - [2023-03-02 15:39:56,095] {dag.py:2931} INFO - Setting next_dagrun for avg_product_price to None, run_after=None
+[2023-03-02 15:39:56,772] {processor.py:161} INFO - Processing /home/airflow/dags/avg_product_price.py took 0.939 seconds
+[2023-03-02 15:40:27,164] {processor.py:153} INFO - Started process (PID=845) to work on /home/airflow/dags/avg_product_price.py
+[2023-03-02 15:40:27,166] {processor.py:641} INFO - Processing file /home/airflow/dags/avg_product_price.py for tasks to queue
+[2023-03-02 15:40:27,167] {logging_mixin.py:115} INFO - [2023-03-02 15:40:27,167] {dagbag.py:507} INFO - Filling up the DagBag from /home/airflow/dags/avg_product_price.py
+[2023-03-02 15:40:27,239] {processor.py:651} INFO - DAG(s) dict_keys(['avg_product_price']) retrieved from /home/airflow/dags/avg_product_price.py
+[2023-03-02 15:40:27,576] {logging_mixin.py:115} INFO - [2023-03-02 15:40:27,576] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-02 15:40:27,617] {logging_mixin.py:115} INFO - [2023-03-02 15:40:27,617] {dag.py:2931} INFO - Setting next_dagrun for avg_product_price to None, run_after=None
+[2023-03-02 15:40:27,706] {processor.py:161} INFO - Processing /home/airflow/dags/avg_product_price.py took 0.549 seconds
+[2023-03-02 15:40:58,022] {processor.py:153} INFO - Started process (PID=855) to work on /home/airflow/dags/avg_product_price.py
+[2023-03-02 15:40:58,024] {processor.py:641} INFO - Processing file /home/airflow/dags/avg_product_price.py for tasks to queue
+[2023-03-02 15:40:58,025] {logging_mixin.py:115} INFO - [2023-03-02 15:40:58,025] {dagbag.py:507} INFO - Filling up the DagBag from /home/airflow/dags/avg_product_price.py
+[2023-03-02 15:40:58,106] {processor.py:651} INFO - DAG(s) dict_keys(['avg_product_price']) retrieved from /home/airflow/dags/avg_product_price.py
+[2023-03-02 15:40:58,290] {logging_mixin.py:115} INFO - [2023-03-02 15:40:58,290] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-02 15:40:58,329] {logging_mixin.py:115} INFO - [2023-03-02 15:40:58,327] {dag.py:2931} INFO - Setting next_dagrun for avg_product_price to None, run_after=None
+[2023-03-02 15:40:58,356] {processor.py:161} INFO - Processing /home/airflow/dags/avg_product_price.py took 0.343 seconds
+[2023-03-02 15:41:28,847] {processor.py:153} INFO - Started process (PID=865) to work on /home/airflow/dags/avg_product_price.py
+[2023-03-02 15:41:28,850] {processor.py:641} INFO - Processing file /home/airflow/dags/avg_product_price.py for tasks to queue
+[2023-03-02 15:41:28,852] {logging_mixin.py:115} INFO - [2023-03-02 15:41:28,852] {dagbag.py:507} INFO - Filling up the DagBag from /home/airflow/dags/avg_product_price.py
+[2023-03-02 15:41:29,006] {processor.py:651} INFO - DAG(s) dict_keys(['avg_product_price']) retrieved from /home/airflow/dags/avg_product_price.py
+[2023-03-02 15:41:29,407] {logging_mixin.py:115} INFO - [2023-03-02 15:41:29,406] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-02 15:41:29,458] {logging_mixin.py:115} INFO - [2023-03-02 15:41:29,457] {dag.py:2931} INFO - Setting next_dagrun for avg_product_price to None, run_after=None
+[2023-03-02 15:41:29,506] {processor.py:161} INFO - Processing /home/airflow/dags/avg_product_price.py took 0.668 seconds
+[2023-03-02 15:41:59,965] {processor.py:153} INFO - Started process (PID=875) to work on /home/airflow/dags/avg_product_price.py
+[2023-03-02 15:41:59,968] {processor.py:641} INFO - Processing file /home/airflow/dags/avg_product_price.py for tasks to queue
+[2023-03-02 15:41:59,970] {logging_mixin.py:115} INFO - [2023-03-02 15:41:59,970] {dagbag.py:507} INFO - Filling up the DagBag from /home/airflow/dags/avg_product_price.py
+[2023-03-02 15:42:00,201] {processor.py:651} INFO - DAG(s) dict_keys(['avg_product_price']) retrieved from /home/airflow/dags/avg_product_price.py
+[2023-03-02 15:42:02,642] {logging_mixin.py:115} INFO - [2023-03-02 15:42:02,606] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-02 15:42:02,762] {logging_mixin.py:115} INFO - [2023-03-02 15:42:02,762] {dag.py:2931} INFO - Setting next_dagrun for avg_product_price to None, run_after=None
+[2023-03-02 15:42:02,816] {processor.py:161} INFO - Processing /home/airflow/dags/avg_product_price.py took 2.859 seconds
+[2023-03-02 15:42:33,878] {processor.py:153} INFO - Started process (PID=885) to work on /home/airflow/dags/avg_product_price.py
+[2023-03-02 15:42:33,880] {processor.py:641} INFO - Processing file /home/airflow/dags/avg_product_price.py for tasks to queue
+[2023-03-02 15:42:33,881] {logging_mixin.py:115} INFO - [2023-03-02 15:42:33,881] {dagbag.py:507} INFO - Filling up the DagBag from /home/airflow/dags/avg_product_price.py
+[2023-03-02 15:42:33,974] {processor.py:651} INFO - DAG(s) dict_keys(['avg_product_price']) retrieved from /home/airflow/dags/avg_product_price.py
+[2023-03-02 15:42:34,296] {logging_mixin.py:115} INFO - [2023-03-02 15:42:34,296] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-02 15:42:34,342] {logging_mixin.py:115} INFO - [2023-03-02 15:42:34,342] {dag.py:2931} INFO - Setting next_dagrun for avg_product_price to None, run_after=None
+[2023-03-02 15:42:34,400] {processor.py:161} INFO - Processing /home/airflow/dags/avg_product_price.py took 0.531 seconds
+[2023-03-02 15:43:04,699] {processor.py:153} INFO - Started process (PID=895) to work on /home/airflow/dags/avg_product_price.py
+[2023-03-02 15:43:04,701] {processor.py:641} INFO - Processing file /home/airflow/dags/avg_product_price.py for tasks to queue
+[2023-03-02 15:43:04,703] {logging_mixin.py:115} INFO - [2023-03-02 15:43:04,703] {dagbag.py:507} INFO - Filling up the DagBag from /home/airflow/dags/avg_product_price.py
+[2023-03-02 15:43:04,845] {processor.py:651} INFO - DAG(s) dict_keys(['avg_product_price']) retrieved from /home/airflow/dags/avg_product_price.py
+[2023-03-02 15:43:05,134] {logging_mixin.py:115} INFO - [2023-03-02 15:43:05,134] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-02 15:43:05,195] {logging_mixin.py:115} INFO - [2023-03-02 15:43:05,195] {dag.py:2931} INFO - Setting next_dagrun for avg_product_price to None, run_after=None
+[2023-03-02 15:43:05,225] {processor.py:161} INFO - Processing /home/airflow/dags/avg_product_price.py took 0.532 seconds
+[2023-03-02 15:43:36,105] {processor.py:153} INFO - Started process (PID=905) to work on /home/airflow/dags/avg_product_price.py
+[2023-03-02 15:43:36,112] {processor.py:641} INFO - Processing file /home/airflow/dags/avg_product_price.py for tasks to queue
+[2023-03-02 15:43:36,113] {logging_mixin.py:115} INFO - [2023-03-02 15:43:36,113] {dagbag.py:507} INFO - Filling up the DagBag from /home/airflow/dags/avg_product_price.py
+[2023-03-02 15:43:36,281] {processor.py:651} INFO - DAG(s) dict_keys(['avg_product_price']) retrieved from /home/airflow/dags/avg_product_price.py
+[2023-03-02 15:43:36,881] {logging_mixin.py:115} INFO - [2023-03-02 15:43:36,865] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-02 15:43:36,941] {logging_mixin.py:115} INFO - [2023-03-02 15:43:36,941] {dag.py:2931} INFO - Setting next_dagrun for avg_product_price to None, run_after=None
+[2023-03-02 15:43:37,176] {processor.py:161} INFO - Processing /home/airflow/dags/avg_product_price.py took 1.109 seconds
+[2023-03-02 15:44:08,559] {processor.py:153} INFO - Started process (PID=915) to work on /home/airflow/dags/avg_product_price.py
+[2023-03-02 15:44:08,561] {processor.py:641} INFO - Processing file /home/airflow/dags/avg_product_price.py for tasks to queue
+[2023-03-02 15:44:08,562] {logging_mixin.py:115} INFO - [2023-03-02 15:44:08,562] {dagbag.py:507} INFO - Filling up the DagBag from /home/airflow/dags/avg_product_price.py
+[2023-03-02 15:44:08,719] {processor.py:651} INFO - DAG(s) dict_keys(['avg_product_price']) retrieved from /home/airflow/dags/avg_product_price.py
+[2023-03-02 15:44:09,316] {logging_mixin.py:115} INFO - [2023-03-02 15:44:09,316] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-03-02 15:44:09,383] {logging_mixin.py:115} INFO - [2023-03-02 15:44:09,383] {dag.py:2931} INFO - Setting next_dagrun for avg_product_price to None, run_after=None
+[2023-03-02 15:44:09,448] {processor.py:161} INFO - Processing /home/airflow/dags/avg_product_price.py took 0.905 seconds
