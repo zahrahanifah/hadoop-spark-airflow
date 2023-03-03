@@ -1,40 +1,19 @@
-![Architecture](src/hadoop-spark-airflow-architecture.png)
+## Run Spark with Hadoop, Docker, and Airflow
+On this repo, I will show you how to run Spark with Hadoop, and scheduled the task/DAG in Airflow
 
-# Learn Hadoop Using Docker
-This is just for learning intention, not recomended for production. Use Hortonworks or Cloudera for production instead or you can just setup using cloud service. In GCP there is Dataproc or in AWS there is EMR (Elastic Map Reduce).
+## If you want to follow the step, you may require to install follow requirement :
+1. Docker Desktop : https://www.docker.com/products/docker-desktop/
 
-#### Have fun !
-
-# Download binary
-- This Dockerfile build from existing hadoop image but, if you want to download the binary first instead build your own Dockerfile image :
-https://archive.apache.org/dist/hadoop/common/hadoop-3.3.1/hadoop-3.3.1.tar.gz
-- Download Apache Spark Binary https://downloads.apache.org/spark/spark-3.3.1/
-
-# Kick-off Cluster
-1. Clone this repos to your project directory, and `cd hadoop-docker`
-2. If you are in Linux/MAC Just simply run `./run_cluster.sh`
-3. If you are in Windows try run this command `docker build -t hadoop-base:3.2.1 . && docker-compose up`
-
-# How to run MapReduce Job
-1. There is `ratings_breakdown.py` python file in `map_reduce` directory, we can run this file on a local python mode or in Hadoop world
-2. For python mode local run command `python3 map_reduce/ratings_breakdown.py input/u.data`
-3. To run this file in Hadoop run this command `python3 map_reduce/ratings_breakdown.py -r hadoop --hadoop-streaming-jar /opt/hadoop-3.3.1/share/hadoop/tools/lib/hadoop-streaming-3.3.1.jar input/u.data`
-4. Path `/opt/hadoop-3.3.1/share/hadoop/tools/lib/hadoop-streaming-3.3.1.jar` might be different for users or if you are using different version of Hadoop, run command `find / hadoop-streaming-$(HADOOP_VERSION).jar` to find it
-
-# Running with hadoop command
-1. Make sure you have `input` directory in HDFS, if it's not exist just run this command `hadoop fs -mkdir -p input`
-2. Put your data in `input` directory in your local project `hdfs dfs -put ./input/* input`
-3. And ready to run
-```
-hadoop jar /opt/hadoop-3.3.1/share/hadoop/tools/lib/hadoop-streaming-3.3.1.jar -file /hadoop-data/map_reduce/word_count/mapper.py -mapper "python3 mapper.py" -file /hadoop-data/map_reduce/word_count/reducer.py -reducer "python3 reducer.py" -input input/words.txt -output output_word_count
-```
-
-# Hadoop Configurations
-1. core-site.xml default and description [here](https://hadoop.apache.org/docs/r3.3.1/hadoop-project-dist/hadoop-common/core-default.xml)
-2. hdfs-site.xml default and description [here](https://hadoop.apache.org/docs/r3.3.1/hadoop-project-dist/hadoop-hdfs/hdfs-default.xml)
-3. mapred-site.xml default and description [here](https://hadoop.apache.org/docs/r3.3.1/hadoop-mapreduce-client/hadoop-mapreduce-client-core/mapred-default.xml)
-4. yarn-site.xml default and description [here](https://hadoop.apache.org/docs/r3.3.1/hadoop-yarn/hadoop-yarn-common/yarn-default.xml)
-5. To calculate YARN and MapReduce memory configuration [here](https://docs.cloudera.com/HDPDocuments/HDP2/HDP-2.0.9.0/bk_installing_manually_book/content/rpm-chap1-11.html)
-
-# End to end step by step to kick-off Airflow, Spark Cluster and Hadoop Cluster
-Please start everything from `run_cluster.sh` because the base image created from this step
+## Here are the step to run Spark with Hadoop, and scheduled the task/DAG in Airflow : 
+1. Build docker hadoop base. Run `docker build -t hadoop-base:3.3.1 -f Dockerfile-hadoop .` in your VSCode terminal
+2. Compose docker hadoop by run `docker-compose -f docker-compose-hadoop.yml up -d`
+3. Build docker airflow in airflow directory by run `cd airflow` and `docker build -t airflow-hadoop-base:3.3.1 .`
+4. Compose docker airflow hadoop base by run `docker-compose -f docker-compose-airflow.yml up -d`
+5. You can check in your Docker Desktop, hadoop base and Airflow already available
+6. In Docker Desktop, go to Namenode terminal and create hdfs directory
+7. Place the `Sales.csv` file in hdfs directory by run `hadoop fs -put /hadoop-data/input/Sales.csv input/`
+8. On VSCode terminal, run `docker ps`. You will find airflow-webserver and link to the localhost
+9. Copy the link to your google chrome or mozilla. It will bring you to airflow UI. You can login with username and password `airflow`
+10. Add and define new connection `spark-hadoop`
+11. Select DAG `avg_product_price` and run DAG by click unpause on the left corner and run play button on the right corner
+12. It will show green if the DAG is successfully run 
